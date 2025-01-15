@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title> WSV + DWD Stationen </title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A==" crossorigin=""/>
+    <!-- Leaflet JS -->
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js" integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA==" crossorigin=""></script>
+    <!-- Custom Styles -->
+    <link rel="stylesheet" type="text/css" href="css/styles.css">
+	
+</head>
+<body id="body">
+    <h2 class="heading"> WSV + DWD Stationen Nord </h2>
+    <div id="wrapper"></div>
+		<div id="mymap"> </div>
+		<div id="infobox">Wetterdaten</div>
+        <div class="component1">
+            <button class="map-zoom-out-btn"> Map Zoom Reset </button>
+        </div>
+	</div>
+    <div class="button-group">
+       	<div class="component2">
+            <select class="select-dropdown1" name="dropdown">
+                <option> Select DWD Station </option>
+            </select>
+            <button class="search-btn1"> Set DWD </button>
+        </div>
+    
+        <div class="component3">
+            <select class="select-dropdown2" name="dropdown">
+                <option> Select WSV Station </option>
+            </select>
+            <button class="search-btn2"> Set WSV </button>
+        </div>
+    </div>
+	
+    <footer class="footer">  
+		<div> © Martin Knop 2025  </div>
+		<div> -->  Die Daten des DWD haben folgende Nutzungsbedingungen:   
+		<a href="https://www.dwd.de/DE/service/rechtliche_hinweise/rechtliche_hinweise_node.html" 		target="_blank"> Deutscher Wetterdienst </a></div>
+		
+		<div> -->  Die Daten des WSV sind unter dieser Lizenz frei verfügbar:   
+		<a href="https://www.govdata.de/dl-de/zero-2-0" target="_blank"> DL-DE->Zero-2.0 </a></div>
+	</footer>
+
+    <script type="text/javascript" src="js/script.js"></script>
+	
+</body>
+</html>

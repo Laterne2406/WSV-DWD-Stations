@@ -1,0 +1,1838 @@
+[
+	{
+		"id": "10505",
+		"name": "Aachen-Orsbach",
+		"altitude": 231.0,
+		"regio": "NW",
+		"latitude": 50.798,
+		"longitude": 6.024,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10309",
+		"name": "Ahaus",
+		"altitude": 46.0,
+		"regio": "NW",
+		"latitude": 52.0813,
+		"longitude": 6.9409,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10442",
+		"name": "Alfeld",
+		"altitude": 144.0,
+		"regio": "NI",
+		"latitude": 51.9643,
+		"longitude": 9.8072,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10954",
+		"name": "Altenstadt",
+		"altitude": 739.0,
+		"regio": "BY",
+		"latitude": 47.8342,
+		"longitude": 10.8667,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10520",
+		"name": "Andernach",
+		"altitude": 75.0,
+		"regio": "RP",
+		"latitude": 50.4237,
+		"longitude": 7.4202,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10291",
+		"name": "Angermünde",
+		"altitude": 54.0,
+		"regio": "BB",
+		"latitude": 53.0316,
+		"longitude": 13.9908,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10091",
+		"name": "Arkona",
+		"altitude": 42.0,
+		"regio": "MV",
+		"latitude": 54.6791,
+		"longitude": 13.4344,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10460",
+		"name": "Artern",
+		"altitude": 164.0,
+		"regio": "TH",
+		"latitude": 51.3744,
+		"longitude": 11.292,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10852",
+		"name": "Augsburg",
+		"altitude": 462.0,
+		"regio": "BY",
+		"latitude": 48.4253,
+		"longitude": 10.9417,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10675",
+		"name": "Bamberg",
+		"altitude": 240.0,
+		"regio": "BY",
+		"latitude": 49.8743,
+		"longitude": 10.9206,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10180",
+		"name": "Barth",
+		"altitude": 3.0,
+		"regio": "MV",
+		"latitude": 54.3405,
+		"longitude": 12.7108,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10376",
+		"name": "Baruth",
+		"altitude": 55.0,
+		"regio": "BB",
+		"latitude": 52.0613,
+		"longitude": 13.4997,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10312",
+		"name": "Belm",
+		"altitude": 103.0,
+		"regio": "NI",
+		"latitude": 52.317,
+		"longitude": 8.1694,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10238",
+		"name": "Bergen",
+		"altitude": 69.0,
+		"regio": "NI",
+		"latitude": 52.8152,
+		"longitude": 9.9248,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10385",
+		"name": "Berlin Brandenburg",
+		"altitude": 46.0,
+		"regio": "BB",
+		"latitude": 52.3807,
+		"longitude": 13.5306,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10381",
+		"name": "Berlin-Dahlem (FU)",
+		"altitude": 51.0,
+		"regio": "BE",
+		"latitude": 52.454,
+		"longitude": 13.302,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10384",
+		"name": "Berlin-Tempelhof",
+		"altitude": 48.0,
+		"regio": "BE",
+		"latitude": 52.4676,
+		"longitude": 13.402,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10704",
+		"name": "Berus",
+		"altitude": 362.0,
+		"regio": "SL",
+		"latitude": 49.2641,
+		"longitude": 6.6868,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10249",
+		"name": "Boizenburg",
+		"altitude": 45.0,
+		"regio": "MV",
+		"latitude": 53.3911,
+		"longitude": 10.6878,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10161",
+		"name": "Boltenhagen",
+		"altitude": 15.0,
+		"regio": "MV",
+		"latitude": 54.0027,
+		"longitude": 11.1908,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10452",
+		"name": "Braunlage",
+		"altitude": 607.0,
+		"regio": "NI",
+		"latitude": 51.7234,
+		"longitude": 10.6021,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10348",
+		"name": "Braunschweig",
+		"altitude": 81.0,
+		"regio": "NI",
+		"latitude": 52.2915,
+		"longitude": 10.4464,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10224",
+		"name": "Bremen",
+		"altitude": 4.0,
+		"regio": "HB",
+		"latitude": 53.0451,
+		"longitude": 8.7981,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10129",
+		"name": "Bremerhaven",
+		"altitude": 7.0,
+		"regio": "HB",
+		"latitude": 53.5332,
+		"longitude": 8.5761,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10139",
+		"name": "Bremervörde",
+		"altitude": 11.0,
+		"regio": "NI",
+		"latitude": 53.4451,
+		"longitude": 9.139,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10453",
+		"name": "Brocken",
+		"altitude": 1135.0,
+		"regio": "ST",
+		"latitude": 51.799,
+		"longitude": 10.618,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10613",
+		"name": "Büchel-Alflen",
+		"altitude": 477.0,
+		"regio": "RP",
+		"latitude": 50.1745,
+		"longitude": 7.0595,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10335",
+		"name": "Bückeburg",
+		"altitude": 68.0,
+		"regio": "NI",
+		"latitude": 52.2817,
+		"longitude": 9.089,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10574",
+		"name": "Carlsfeld",
+		"altitude": 895.0,
+		"regio": "SN",
+		"latitude": 50.4313,
+		"longitude": 12.6114,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10343",
+		"name": "Celle",
+		"altitude": 39.0,
+		"regio": "NI",
+		"latitude": 52.5959,
+		"longitude": 10.0296,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10577",
+		"name": "Chemnitz",
+		"altitude": 416.0,
+		"regio": "SN",
+		"latitude": 50.7913,
+		"longitude": 12.872,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10982",
+		"name": "Chieming",
+		"altitude": 551.0,
+		"regio": "BY",
+		"latitude": 47.8843,
+		"longitude": 12.5404,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10496",
+		"name": "Cottbus",
+		"altitude": 69.0,
+		"regio": "BB",
+		"latitude": 51.7759,
+		"longitude": 14.3168,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10131",
+		"name": "Cuxhaven",
+		"altitude": 5.0,
+		"regio": "NI",
+		"latitude": 53.8713,
+		"longitude": 8.706,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10615",
+		"name": "Deuselbach",
+		"altitude": 481.0,
+		"regio": "RP",
+		"latitude": 49.7619,
+		"longitude": 7.0542,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10321",
+		"name": "Diepholz",
+		"altitude": 38.0,
+		"regio": "NI",
+		"latitude": 52.5881,
+		"longitude": 8.3424,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10490",
+		"name": "Doberlug-Kirchhain",
+		"altitude": 97.0,
+		"regio": "BB",
+		"latitude": 51.6451,
+		"longitude": 13.5747,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10488",
+		"name": "Dresden-Klotzsche",
+		"altitude": 228.0,
+		"regio": "SN",
+		"latitude": 51.1278,
+		"longitude": 13.7543,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10150",
+		"name": "Dörnick",
+		"altitude": 27.0,
+		"regio": "SH",
+		"latitude": 54.1654,
+		"longitude": 10.3519,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10400",
+		"name": "Düsseldorf",
+		"altitude": 37.0,
+		"regio": "NW",
+		"latitude": 51.296,
+		"longitude": 6.7686,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10540",
+		"name": "Eisenach",
+		"altitude": 312.0,
+		"regio": "TH",
+		"latitude": 51.0007,
+		"longitude": 10.3621,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10130",
+		"name": "Elpersbüttel",
+		"altitude": 3.0,
+		"regio": "SH",
+		"latitude": 54.0691,
+		"longitude": 9.0105,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10200",
+		"name": "Emden",
+		"altitude": 0.0,
+		"regio": "NI",
+		"latitude": 53.3881,
+		"longitude": 7.2287,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10554",
+		"name": "Erfurt-Weimar",
+		"altitude": 316.0,
+		"regio": "TH",
+		"latitude": 50.9829,
+		"longitude": 10.9608,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10410",
+		"name": "Essen-Bredeney",
+		"altitude": 150.0,
+		"regio": "NW",
+		"latitude": 51.4041,
+		"longitude": 6.9677,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10246",
+		"name": "Faßberg",
+		"altitude": 74.0,
+		"regio": "NI",
+		"latitude": 52.9157,
+		"longitude": 10.1885,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10055",
+		"name": "Fehmarn",
+		"altitude": 3.0,
+		"regio": "SH",
+		"latitude": 54.5283,
+		"longitude": 11.0606,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10282",
+		"name": "Feldberg/Mecklenburg",
+		"altitude": 115.0,
+		"regio": "MV",
+		"latitude": 53.3176,
+		"longitude": 13.4175,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10908",
+		"name": "Feldberg/Schwarzwald",
+		"altitude": 1486.0,
+		"regio": "BW",
+		"latitude": 47.8748,
+		"longitude": 8.0038,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10756",
+		"name": "Feuchtwangen-Heilbronn",
+		"altitude": 475.0,
+		"regio": "BY",
+		"latitude": 49.1623,
+		"longitude": 10.3661,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10578",
+		"name": "Fichtelberg",
+		"altitude": 1213.0,
+		"regio": "SN",
+		"latitude": 50.4283,
+		"longitude": 12.9536,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10637",
+		"name": "Frankfurt/Main",
+		"altitude": 100.0,
+		"regio": "HE",
+		"latitude": 50.026,
+		"longitude": 8.521,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10803",
+		"name": "Freiburg",
+		"altitude": 237.0,
+		"regio": "BW",
+		"latitude": 48.0232,
+		"longitude": 7.8343,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10815",
+		"name": "Freudenstadt",
+		"altitude": 797.0,
+		"regio": "BW",
+		"latitude": 48.4538,
+		"longitude": 8.409,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10210",
+		"name": "Friesoythe-Altenoythe",
+		"altitude": 6.0,
+		"regio": "NI",
+		"latitude": 53.0643,
+		"longitude": 7.902,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10439",
+		"name": "Fritzlar/Eder",
+		"altitude": 172.0,
+		"regio": "HE",
+		"latitude": 51.119,
+		"longitude": 9.2799,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10895",
+		"name": "Fürstenzell",
+		"altitude": 476.0,
+		"regio": "BY",
+		"latitude": 48.5451,
+		"longitude": 13.3532,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10359",
+		"name": "Gardelegen",
+		"altitude": 47.0,
+		"regio": "ST",
+		"latitude": 52.5129,
+		"longitude": 11.3942,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10963",
+		"name": "Garmisch-Partenkirchen",
+		"altitude": 719.0,
+		"regio": "BY",
+		"latitude": 47.483,
+		"longitude": 11.0621,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10500",
+		"name": "Geilenkirchen-Neutevern",
+		"altitude": 80.0,
+		"regio": "NW",
+		"latitude": 50.9593,
+		"longitude": 6.0392,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10628",
+		"name": "Geisenheim",
+		"altitude": 111.0,
+		"regio": "HE",
+		"latitude": 49.9859,
+		"longitude": 7.9548,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10777",
+		"name": "Gelbelsee",
+		"altitude": 536.0,
+		"regio": "BY",
+		"latitude": 48.9481,
+		"longitude": 11.4289,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10365",
+		"name": "Genthin",
+		"altitude": 35.0,
+		"regio": "ST",
+		"latitude": 52.3875,
+		"longitude": 12.1602,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10567",
+		"name": "Gera-Leumnitz",
+		"altitude": 311.0,
+		"regio": "TH",
+		"latitude": 50.8812,
+		"longitude": 12.1289,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10532",
+		"name": "Gießen/Wettenberg",
+		"altitude": 203.0,
+		"regio": "HE",
+		"latitude": 50.6017,
+		"longitude": 8.6439,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10033",
+		"name": "Glücksburg-Meierwik",
+		"altitude": 12.0,
+		"regio": "SH",
+		"latitude": 54.8273,
+		"longitude": 9.5058,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10168",
+		"name": "Goldberg",
+		"altitude": 59.0,
+		"regio": "MV",
+		"latitude": 53.6058,
+		"longitude": 12.1034,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10872",
+		"name": "Gottfrieding",
+		"altitude": 351.0,
+		"regio": "BY",
+		"latitude": 48.6595,
+		"longitude": 12.5388,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10184",
+		"name": "Greifswald",
+		"altitude": 2.0,
+		"regio": "MV",
+		"latitude": 54.0967,
+		"longitude": 13.4056,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10097",
+		"name": "Greifswalder Oie",
+		"altitude": 12.0,
+		"regio": "MV",
+		"latitude": 54.2437,
+		"longitude": 13.9102,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10791",
+		"name": "Großer Arber",
+		"altitude": 1436.0,
+		"regio": "BY",
+		"latitude": 49.1129,
+		"longitude": 13.1338,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10289",
+		"name": "Grünow",
+		"altitude": 56.0,
+		"regio": "BB",
+		"latitude": 53.3154,
+		"longitude": 13.9339,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10499",
+		"name": "Görlitz",
+		"altitude": 239.0,
+		"regio": "SN",
+		"latitude": 51.162,
+		"longitude": 14.951,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10444",
+		"name": "Göttingen",
+		"altitude": 167.0,
+		"regio": "NI",
+		"latitude": 51.5002,
+		"longitude": 9.9507,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10616",
+		"name": "Hahn",
+		"altitude": 497.0,
+		"regio": "RP",
+		"latitude": 49.9463,
+		"longitude": 7.2645,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10147",
+		"name": "Hamburg-Fuhlsbüttel",
+		"altitude": 11.0,
+		"regio": "HH",
+		"latitude": 53.633,
+		"longitude": 9.988,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10338",
+		"name": "Hannover",
+		"altitude": 55.0,
+		"regio": "NI",
+		"latitude": 52.4644,
+		"longitude": 9.6779,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10850",
+		"name": "Harburg",
+		"altitude": 501.0,
+		"regio": "BY",
+		"latitude": 48.7918,
+		"longitude": 10.7062,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10458",
+		"name": "Harzgerode",
+		"altitude": 404.0,
+		"regio": "ST",
+		"latitude": 51.652,
+		"longitude": 11.1366,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10015",
+		"name": "Helgoland",
+		"altitude": 4.0,
+		"regio": "SH",
+		"latitude": 54.175,
+		"longitude": 7.892,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10542",
+		"name": "Hersfeld, Bad",
+		"altitude": 272.0,
+		"regio": "HE",
+		"latitude": 50.852,
+		"longitude": 9.7377,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10685",
+		"name": "Hof",
+		"altitude": 565.0,
+		"regio": "BY",
+		"latitude": 50.3123,
+		"longitude": 11.876,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10962",
+		"name": "Hohenpeißenberg",
+		"altitude": 977.0,
+		"regio": "BY",
+		"latitude": 47.801,
+		"longitude": 11.011,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10534",
+		"name": "Hoherodskopf/Vogelsberg",
+		"altitude": 740.0,
+		"regio": "HE",
+		"latitude": 50.5084,
+		"longitude": 9.2246,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10038",
+		"name": "Hohn",
+		"altitude": 10.0,
+		"regio": "SH",
+		"latitude": 54.3162,
+		"longitude": 9.5385,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10476",
+		"name": "Holzdorf-Bernsdorf",
+		"altitude": 78.0,
+		"regio": "BB",
+		"latitude": 51.7657,
+		"longitude": 13.1666,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10495",
+		"name": "Hoyerswerda",
+		"altitude": 116.0,
+		"regio": "SN",
+		"latitude": 51.4492,
+		"longitude": 14.2533,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10618",
+		"name": "Idar-Oberstein",
+		"altitude": 376.0,
+		"regio": "RP",
+		"latitude": 49.6927,
+		"longitude": 7.3263,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10860",
+		"name": "Ingolstadt-Manching",
+		"altitude": 364.0,
+		"regio": "BY",
+		"latitude": 48.7111,
+		"longitude": 11.5363,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10142",
+		"name": "Itzehoe",
+		"altitude": 20.0,
+		"regio": "SH",
+		"latitude": 53.9897,
+		"longitude": 9.5697,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10427",
+		"name": "Kahler Asten",
+		"altitude": 839.0,
+		"regio": "NW",
+		"latitude": 51.1803,
+		"longitude": 8.4891,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10747",
+		"name": "Kaisersbach-Cronhütte",
+		"altitude": 489.0,
+		"regio": "BW",
+		"latitude": 48.917,
+		"longitude": 9.6871,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10946",
+		"name": "Kempten",
+		"altitude": 705.0,
+		"regio": "BY",
+		"latitude": 47.7233,
+		"longitude": 10.3348,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10046",
+		"name": "Kiel-Holtenau",
+		"altitude": 28.0,
+		"regio": "SH",
+		"latitude": 54.3776,
+		"longitude": 10.1424,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10658",
+		"name": "Kissingen, Bad",
+		"altitude": 282.0,
+		"regio": "BY",
+		"latitude": 50.224,
+		"longitude": 10.0792,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10635",
+		"name": "Kleiner Feldberg/Taunus",
+		"altitude": 822.0,
+		"regio": "HE",
+		"latitude": 50.2218,
+		"longitude": 8.4469,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10818",
+		"name": "Klippeneck",
+		"altitude": 974.0,
+		"regio": "BW",
+		"latitude": 48.1054,
+		"longitude": 8.7548,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10929",
+		"name": "Konstanz",
+		"altitude": 428.0,
+		"regio": "BW",
+		"latitude": 47.6952,
+		"longitude": 9.1307,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10267",
+		"name": "Kyritz",
+		"altitude": 40.0,
+		"regio": "BB",
+		"latitude": 52.9362,
+		"longitude": 12.4093,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10513",
+		"name": "Köln/Bonn",
+		"altitude": 91.0,
+		"regio": "NW",
+		"latitude": 50.8645,
+		"longitude": 7.1575,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10519",
+		"name": "Königswinter-Heiderhof",
+		"altitude": 147.0,
+		"regio": "NW",
+		"latitude": 50.7293,
+		"longitude": 7.204,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10771",
+		"name": "Kümmersbruck",
+		"altitude": 416.0,
+		"regio": "BY",
+		"latitude": 49.4283,
+		"longitude": 11.9016,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10172",
+		"name": "Laage-Kronskamp",
+		"altitude": 40.0,
+		"regio": "MV",
+		"latitude": 53.9156,
+		"longitude": 12.279,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10805",
+		"name": "Lahr",
+		"altitude": 156.0,
+		"regio": "BW",
+		"latitude": 48.3647,
+		"longitude": 7.828,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10837",
+		"name": "Laupheim",
+		"altitude": 539.0,
+		"regio": "BW",
+		"latitude": 48.2175,
+		"longitude": 9.9097,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10671",
+		"name": "Lautertal-Oberlauter",
+		"altitude": 344.0,
+		"regio": "BY",
+		"latitude": 50.3066,
+		"longitude": 10.9679,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10856",
+		"name": "Lechfeld",
+		"altitude": 550.0,
+		"regio": "BY",
+		"latitude": 48.1849,
+		"longitude": 10.8507,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10022",
+		"name": "Leck",
+		"altitude": 7.0,
+		"regio": "SH",
+		"latitude": 54.7903,
+		"longitude": 8.9514,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10449",
+		"name": "Leinefelde",
+		"altitude": 356.0,
+		"regio": "TH",
+		"latitude": 51.3932,
+		"longitude": 10.3123,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10471",
+		"name": "Leipzig-Holzhausen",
+		"altitude": 138.0,
+		"regio": "SN",
+		"latitude": 51.3151,
+		"longitude": 12.4462,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10469",
+		"name": "Leipzig/Halle",
+		"altitude": 131.0,
+		"regio": "SN",
+		"latitude": 51.4347,
+		"longitude": 12.2396,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10044",
+		"name": "Leuchtturm Kiel",
+		"altitude": 0.0,
+		"regio": "SH",
+		"latitude": 54.4996,
+		"longitude": 10.2737,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10945",
+		"name": "Leutkirch-Herlazhofen",
+		"altitude": 672.0,
+		"regio": "BW",
+		"latitude": 47.7955,
+		"longitude": 10.0325,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10591",
+		"name": "Lichtenhain-Mittelndorf",
+		"altitude": 321.0,
+		"regio": "SN",
+		"latitude": 50.9383,
+		"longitude": 14.2094,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10393",
+		"name": "Lindenberg",
+		"altitude": 98.0,
+		"regio": "BB",
+		"latitude": 52.209,
+		"longitude": 14.118,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10303",
+		"name": "Lingen-Baccum",
+		"altitude": 40.0,
+		"regio": "NI",
+		"latitude": 52.5126,
+		"longitude": 7.4131,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10430",
+		"name": "Lippspringe, Bad",
+		"altitude": 157.0,
+		"regio": "NW",
+		"latitude": 51.7854,
+		"longitude": 8.8388,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10020",
+		"name": "List auf Sylt",
+		"altitude": 25.0,
+		"regio": "SH",
+		"latitude": 55.011,
+		"longitude": 8.4125,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10156",
+		"name": "Lübeck-Blankensee",
+		"altitude": 15.0,
+		"regio": "SH",
+		"latitude": 53.8025,
+		"longitude": 10.6989,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10253",
+		"name": "Lüchow",
+		"altitude": 16.0,
+		"regio": "NI",
+		"latitude": 52.9724,
+		"longitude": 11.1374,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10418",
+		"name": "Lüdenscheid",
+		"altitude": 387.0,
+		"regio": "NW",
+		"latitude": 51.2452,
+		"longitude": 7.6425,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10433",
+		"name": "Lügde-Paenbruch",
+		"altitude": 258.0,
+		"regio": "NW",
+		"latitude": 51.8664,
+		"longitude": 9.271,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10361",
+		"name": "Magdeburg",
+		"altitude": 79.0,
+		"regio": "ST",
+		"latitude": 52.1029,
+		"longitude": 11.5827,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10729",
+		"name": "Mannheim",
+		"altitude": 98.0,
+		"regio": "BW",
+		"latitude": 49.5063,
+		"longitude": 8.5584,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10396",
+		"name": "Manschnow",
+		"altitude": 12.0,
+		"regio": "BB",
+		"latitude": 52.5468,
+		"longitude": 14.5453,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10579",
+		"name": "Marienberg",
+		"altitude": 639.0,
+		"regio": "SN",
+		"latitude": 50.6511,
+		"longitude": 13.1469,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10526",
+		"name": "Marienberg, Bad",
+		"altitude": 547.0,
+		"regio": "RP",
+		"latitude": 50.6621,
+		"longitude": 7.9603,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10264",
+		"name": "Marnitz",
+		"altitude": 81.0,
+		"regio": "MV",
+		"latitude": 53.3222,
+		"longitude": 11.9321,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10548",
+		"name": "Meiningen",
+		"altitude": 450.0,
+		"regio": "TH",
+		"latitude": 50.5611,
+		"longitude": 10.3771,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10827",
+		"name": "Meßstetten-Appental",
+		"altitude": 900.0,
+		"regio": "BW",
+		"latitude": 48.1694,
+		"longitude": 8.9433,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10648",
+		"name": "Michelstadt-Vielbrunn",
+		"altitude": 453.0,
+		"regio": "HE",
+		"latitude": 49.7177,
+		"longitude": 9.0997,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10736",
+		"name": "Mühlacker",
+		"altitude": 243.0,
+		"regio": "BW",
+		"latitude": 48.9721,
+		"longitude": 8.8735,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10875",
+		"name": "Mühldorf",
+		"altitude": 406.0,
+		"regio": "BY",
+		"latitude": 48.279,
+		"longitude": 12.5024,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10870",
+		"name": "München-Flughafen",
+		"altitude": 446.0,
+		"regio": "BY",
+		"latitude": 48.3477,
+		"longitude": 11.8134,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10865",
+		"name": "München-Stadt",
+		"altitude": 515.0,
+		"regio": "BY",
+		"latitude": 48.1632,
+		"longitude": 11.5429,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10315",
+		"name": "Münster/Osnabrück",
+		"altitude": 48.0,
+		"regio": "NW",
+		"latitude": 52.1344,
+		"longitude": 7.6969,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10537",
+		"name": "Neu-Ulrichstein",
+		"altitude": 350.0,
+		"regio": "HE",
+		"latitude": 50.7513,
+		"longitude": 9.0224,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10853",
+		"name": "Neuburg an der Donau",
+		"altitude": 379.0,
+		"regio": "BY",
+		"latitude": 48.7085,
+		"longitude": 11.2147,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10557",
+		"name": "Neuhaus am Rennweg",
+		"altitude": 845.0,
+		"regio": "TH",
+		"latitude": 50.5003,
+		"longitude": 11.1345,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10646",
+		"name": "Neuhütten/Spessart",
+		"altitude": 340.0,
+		"regio": "BY",
+		"latitude": 50.0083,
+		"longitude": 9.4238,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10271",
+		"name": "Neuruppin-Alt Ruppin",
+		"altitude": 50.0,
+		"regio": "BB",
+		"latitude": 52.9437,
+		"longitude": 12.8518,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10743",
+		"name": "Niederstetten",
+		"altitude": 459.0,
+		"regio": "BW",
+		"latitude": 49.3895,
+		"longitude": 9.9666,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10113",
+		"name": "Norderney",
+		"altitude": 12.0,
+		"regio": "NI",
+		"latitude": 53.7123,
+		"longitude": 7.1519,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10136",
+		"name": "Nordholz-Wanhöden",
+		"altitude": 24.0,
+		"regio": "NI",
+		"latitude": 53.7647,
+		"longitude": 8.6584,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10502",
+		"name": "Nörvenich-Niederbolheim",
+		"altitude": 108.0,
+		"regio": "NW",
+		"latitude": 50.8294,
+		"longitude": 6.6601,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10506",
+		"name": "Nürburg-Barweiler",
+		"altitude": 485.0,
+		"regio": "RP",
+		"latitude": 50.3602,
+		"longitude": 6.8697,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10763",
+		"name": "Nürnberg",
+		"altitude": 314.0,
+		"regio": "BY",
+		"latitude": 49.503,
+		"longitude": 11.0549,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10948",
+		"name": "Oberstdorf",
+		"altitude": 806.0,
+		"regio": "BY",
+		"latitude": 47.3984,
+		"longitude": 10.2759,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10641",
+		"name": "Offenbach-Wetterpark",
+		"altitude": 119.0,
+		"regio": "HE",
+		"latitude": 50.09,
+		"longitude": 8.7862,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10480",
+		"name": "Oschatz",
+		"altitude": 150.0,
+		"regio": "SN",
+		"latitude": 51.296,
+		"longitude": 13.0928,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10565",
+		"name": "Osterfeld",
+		"altitude": 244.0,
+		"regio": "ST",
+		"latitude": 51.0872,
+		"longitude": 11.9293,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10152",
+		"name": "Pelzerhaken",
+		"altitude": 2.0,
+		"regio": "SH",
+		"latitude": 54.0893,
+		"longitude": 10.8773,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10569",
+		"name": "Plauen",
+		"altitude": 387.0,
+		"regio": "SN",
+		"latitude": 50.4818,
+		"longitude": 12.13,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10379",
+		"name": "Potsdam",
+		"altitude": 81.0,
+		"regio": "BB",
+		"latitude": 52.381,
+		"longitude": 13.062,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10093",
+		"name": "Putbus",
+		"altitude": 40.0,
+		"regio": "MV",
+		"latitude": 54.3643,
+		"longitude": 13.4771,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10146",
+		"name": "Quickborn",
+		"altitude": 11.0,
+		"regio": "SH",
+		"latitude": 53.7331,
+		"longitude": 9.8776,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10776",
+		"name": "Regensburg",
+		"altitude": 365.0,
+		"regio": "BY",
+		"latitude": 49.0425,
+		"longitude": 12.1019,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10731",
+		"name": "Rheinstetten",
+		"altitude": 116.0,
+		"regio": "BW",
+		"latitude": 48.9726,
+		"longitude": 8.3301,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10170",
+		"name": "Rostock-Warnemünde",
+		"altitude": 5.0,
+		"regio": "MV",
+		"latitude": 54.1803,
+		"longitude": 12.0808,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10765",
+		"name": "Roth",
+		"altitude": 386.0,
+		"regio": "BY",
+		"latitude": 49.2162,
+		"longitude": 11.1035,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10708",
+		"name": "Saarbrücken-Ensheim",
+		"altitude": 319.0,
+		"regio": "SL",
+		"latitude": 49.2128,
+		"longitude": 7.1077,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10325",
+		"name": "Salzuflen, Bad",
+		"altitude": 135.0,
+		"regio": "NW",
+		"latitude": 52.1042,
+		"longitude": 8.7521,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10028",
+		"name": "Sankt Peter-Ording",
+		"altitude": 5.0,
+		"regio": "SH",
+		"latitude": 54.3279,
+		"longitude": 8.6031,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10441",
+		"name": "Schauenburg-Elgershausen",
+		"altitude": 317.0,
+		"regio": "HE",
+		"latitude": 51.2835,
+		"longitude": 9.359,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10564",
+		"name": "Schleiz",
+		"altitude": 501.0,
+		"regio": "TH",
+		"latitude": 50.5679,
+		"longitude": 11.8041,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10035",
+		"name": "Schleswig",
+		"altitude": 43.0,
+		"regio": "SH",
+		"latitude": 54.528,
+		"longitude": 9.549,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10037",
+		"name": "Schleswig-Jagel",
+		"altitude": 21.0,
+		"regio": "SH",
+		"latitude": 54.457,
+		"longitude": 9.5203,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10552",
+		"name": "Schmücke",
+		"altitude": 938.0,
+		"regio": "TH",
+		"latitude": 50.6545,
+		"longitude": 10.7696,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10162",
+		"name": "Schwerin",
+		"altitude": 59.0,
+		"regio": "MV",
+		"latitude": 53.6424,
+		"longitude": 11.3871,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10042",
+		"name": "Schönhagen (Ostseebad)",
+		"altitude": 1.0,
+		"regio": "SH",
+		"latitude": 54.641,
+		"longitude": 10.0238,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10261",
+		"name": "Seehausen",
+		"altitude": 21.0,
+		"regio": "ST",
+		"latitude": 52.8911,
+		"longitude": 11.7297,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10235",
+		"name": "Soltau",
+		"altitude": 75.0,
+		"regio": "NI",
+		"latitude": 52.9604,
+		"longitude": 9.793,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10788",
+		"name": "Straubing",
+		"altitude": 351.0,
+		"regio": "BY",
+		"latitude": 48.8275,
+		"longitude": 12.5597,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10739",
+		"name": "Stuttgart (Schnarrenberg)",
+		"altitude": 314.0,
+		"regio": "BW",
+		"latitude": 48.8281,
+		"longitude": 9.2,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10738",
+		"name": "Stuttgart-Echterdingen",
+		"altitude": 371.0,
+		"regio": "BW",
+		"latitude": 48.6883,
+		"longitude": 9.2235,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10836",
+		"name": "Stötten",
+		"altitude": 734.0,
+		"regio": "BW",
+		"latitude": 48.6656,
+		"longitude": 9.8648,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10706",
+		"name": "Tholey",
+		"altitude": 387.0,
+		"regio": "SL",
+		"latitude": 49.4737,
+		"longitude": 7.0385,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10609",
+		"name": "Trier-Petrisberg",
+		"altitude": 261.0,
+		"regio": "RP",
+		"latitude": 49.7479,
+		"longitude": 6.6583,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10281",
+		"name": "Trollenhagen",
+		"altitude": 68.0,
+		"regio": "MV",
+		"latitude": 53.5998,
+		"longitude": 13.3039,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10193",
+		"name": "Ueckermünde",
+		"altitude": 1.0,
+		"regio": "MV",
+		"latitude": 53.7445,
+		"longitude": 14.0698,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10004",
+		"name": "UFS TW Ems",
+		"altitude": 0.0,
+		"regio": "HH",
+		"latitude": 54.1651,
+		"longitude": 6.346,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10840",
+		"name": "Ulm-Mähringen",
+		"altitude": 593.0,
+		"regio": "BW",
+		"latitude": 48.4418,
+		"longitude": 9.9216,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10356",
+		"name": "Ummendorf",
+		"altitude": 159.0,
+		"regio": "ST",
+		"latitude": 52.1601,
+		"longitude": 11.1759,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10733",
+		"name": "Waibstadt",
+		"altitude": 237.0,
+		"regio": "BW",
+		"latitude": 49.2943,
+		"longitude": 8.9053,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10782",
+		"name": "Waldmünchen",
+		"altitude": 499.0,
+		"regio": "BY",
+		"latitude": 49.391,
+		"longitude": 12.6838,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10435",
+		"name": "Warburg",
+		"altitude": 236.0,
+		"regio": "NW",
+		"latitude": 51.5039,
+		"longitude": 9.1118,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10268",
+		"name": "Waren (Müritz)",
+		"altitude": 73.0,
+		"regio": "MV",
+		"latitude": 53.5196,
+		"longitude": 12.6654,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10544",
+		"name": "Wasserkuppe",
+		"altitude": 920.0,
+		"regio": "HE",
+		"latitude": 50.4973,
+		"longitude": 9.9427,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10688",
+		"name": "Weiden",
+		"altitude": 440.0,
+		"regio": "BY",
+		"latitude": 49.6662,
+		"longitude": 12.1844,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10863",
+		"name": "Weihenstephan-Dürnast",
+		"altitude": 477.0,
+		"regio": "BY",
+		"latitude": 48.4024,
+		"longitude": 11.6946,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10724",
+		"name": "Weinbiet",
+		"altitude": 553.0,
+		"regio": "RP",
+		"latitude": 49.3758,
+		"longitude": 8.1212,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10761",
+		"name": "Weißenburg-Emetzheim",
+		"altitude": 439.0,
+		"regio": "BY",
+		"latitude": 49.0115,
+		"longitude": 10.9308,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10424",
+		"name": "Werl",
+		"altitude": 85.0,
+		"regio": "NW",
+		"latitude": 51.5763,
+		"longitude": 7.8879,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10454",
+		"name": "Wernigerode",
+		"altitude": 233.0,
+		"regio": "ST",
+		"latitude": 51.8454,
+		"longitude": 10.7686,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10368",
+		"name": "Wiesenburg",
+		"altitude": 187.0,
+		"regio": "BB",
+		"latitude": 52.1206,
+		"longitude": 12.4586,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10474",
+		"name": "Wittenberg",
+		"altitude": 105.0,
+		"regio": "ST",
+		"latitude": 51.8891,
+		"longitude": 12.6446,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10126",
+		"name": "Wittmundhafen",
+		"altitude": 7.0,
+		"regio": "NI",
+		"latitude": 53.5444,
+		"longitude": 7.6625,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10686",
+		"name": "Wunsiedel-Schönbrunn",
+		"altitude": 622.0,
+		"regio": "BY",
+		"latitude": 50.0315,
+		"longitude": 11.9745,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10334",
+		"name": "Wunstorf",
+		"altitude": 49.0,
+		"regio": "NI",
+		"latitude": 52.4626,
+		"longitude": 9.4245,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10655",
+		"name": "Würzburg",
+		"altitude": 268.0,
+		"regio": "BY",
+		"latitude": 49.7704,
+		"longitude": 9.9576,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10582",
+		"name": "Zinnwald-Georgenfeld",
+		"altitude": 877.0,
+		"regio": "SN",
+		"latitude": 50.7313,
+		"longitude": 13.7516,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10961",
+		"name": "Zugspitze",
+		"altitude": 2956.0,
+		"regio": "BY",
+		"latitude": 47.421,
+		"longitude": 10.9848,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10796",
+		"name": "Zwiesel",
+		"altitude": 615.0,
+		"regio": "BY",
+		"latitude": 49.028,
+		"longitude": 13.2385,
+		"source": "SOURCE_STATIONSLEXIKON"
+	},
+	{
+		"id": "10742",
+		"name": "Öhringen",
+		"altitude": 276.0,
+		"regio": "BW",
+		"latitude": 49.207,
+		"longitude": 9.5176,
+		"source": "SOURCE_STATIONSLEXIKON"
+	}
+]
