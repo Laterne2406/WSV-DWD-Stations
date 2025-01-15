@@ -30,9 +30,17 @@ let iconOption2 = {
     iconSize: [30, 30]
 };
 let ourCustomIcon2 = L.icon(iconOption2);
-let WSV_url ='https://www.pegelonline.wsv.de/webservices/rest-api/v2/stations.json'
-let SH_url = '?waters=EIDER,ELK,NOK,NORDSEE,OSTSEE,PINNAU,TRAVE,KRÜCKAU,STÖR,ELBE'
 
+// Abfrage-url per WSV REST-API
+//let WSV_API ='https://www.pegelonline.wsv.de/webservices/rest-api/v2/stations.json'
+//let SH_url = '?waters=EIDER,ELK,NOK,NORDSEE,OSTSEE,PINNAU,TRAVE,KRÜCKAU,STÖR,ELBE'
+//let WSV_url = WSV_API + SH_url
+
+// Lokale gefilterte Stationen aus der WSV-Liste
+let WSV_url = './assets/WSV-Nord-Output.json'
+
+
+// Gefilterte Stationen nach DWD Regionalkennung 
 let regional = ["SH", "NI" , "MV" , "HH"]
 
 function closeInfobox() {
@@ -129,7 +137,7 @@ fetch(station_url)
 	    ourData1 = data;
 		/*console.log(`f-station  `, data)*/
 	    for(let i=0;i<data.length;i++) {
-			/*if (data[i].regio == "SH" || data[i].regio == "MV")*/
+			
 			if (regional.includes(data[i].regio))
 			{
 				let option = document.createElement("option");
@@ -152,7 +160,7 @@ fetch(station_url)
 	.catch(error => console.log(`This is the error: ${error}`))
 	
 // main-Routine Kartendarstellung mit WSV-Stationsmarker	
-fetch(WSV_url + SH_url)
+fetch(WSV_url)
 	.then(response => response.json())
 	.then(data => {
 	    ourData2 = data;
