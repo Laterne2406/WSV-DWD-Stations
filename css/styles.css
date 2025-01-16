@@ -17,17 +17,16 @@ body {
 	
 }
 #mymap {
-    width: 70vw;
-    height: 70vh;
-    margin: 0 2vw 2vh 2vw;
+    width: 75vw;
+    height: 65vh;
+    margin: 0 0.5vw 1vh 1vw;
     border: 3px solid #888;
 	float: left;
 	
 }
 #infobox {
-  	width: 15%;
-  	height: 50%;
-	
+	margin: 0 5px 0px 5px;
+	padding: 5px 5px 5px 5px;
 	float: left;
   	border-width: 3px;
   	border-style: solid;
@@ -43,12 +42,15 @@ body {
 	padding: 10px 35px 10px 35px;
 	flex-direction: row;
 }
-.search-btn1, .search-btn2 {
-    display: inline-block;
+
+
+.map-zoom-out-btn {
 	float: left;
+	display: inline-block;
 	background-color: #0072B5;
     color: #FFF;
-    padding: 10px 35px 10px 35px;
+    margin: 0 20px 0px 5px;
+	padding: 10px 35px 10px 35px;
     border: none;
     font-size: 14px;
     border-radius: 5px;
@@ -56,12 +58,22 @@ body {
 	
 }
 
-.map-zoom-out-btn {
-    margin: 25vh 2vw 2vh 0vw;
+.button-group {
+    justify-content: center;
+	float: left;
+	display: inline-block;
+	margin: 0 10px 0px 5px;
+	padding: 10px 10px 10px 35px;
+	flex-direction: row;
+}
+
+.search-btn1, .search-btn2 {
+    display: inline-block;
 	float: left;
 	background-color: #0072B5;
     color: #FFF;
-    padding: 10px 30px 10px 30px;
+    margin: 0 20px 0px 5px;
+	padding: 10px 35px 10px 35px;
     border: none;
     font-size: 14px;
     border-radius: 5px;
@@ -70,10 +82,10 @@ body {
 }
 
 .select-dropdown1, .select-dropdown2 {
-    /*display: inline-block;*/
+    display: inline-block;
 	float: left;
-    margin: 0 20px 20px 0;
-    padding: 10px 35px 10px 35px;
+    margin: 0 5px 0px 10px;
+    padding: 10px 10px 10px 35px;
     border: 1px solid #AAA;
     font: inherit;
 	font-size: 12px;
@@ -89,16 +101,13 @@ body {
 }
 .footer {
     position: fixed;
-    bottom: 20px;
-	margin: 20px 20px 20px 60px;
+    bottom: 5px;
+	margin: 10px 20px 10px 60px;
 	width: 100%;
-	
 	display: block;
 	float: right;
-    /*justify-content: center;*/
-	/*align-items: center;*/
-    font-size: 12px;
-	/*padding-bottom: 40px;*/
+    font-size: 10px;
+	
 	
 }
 .footer a:link {
@@ -106,13 +115,7 @@ body {
     color: blue;
     cursor: pointer;
 }
-.flex-style {
-	
-    display: flex;
-	font-size: 12px;
-    justify-content: center;
-    align-items: center;
-}
+
 
 #overlaybox {
   position: absolute;

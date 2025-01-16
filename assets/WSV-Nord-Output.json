@@ -1,19 +1,5 @@
 [
 	{
-		"uuid": "28ec91e8-90c0-44d1-8fd2-b0b64c00c43b",
-		"number": "126013",
-		"shortname": "ABBENFLETH SPERRWERK",
-		"longname": "ABBENFLETH SPERRWERK",
-		"km": 2.95,
-		"agency": "STANDORT HAMBURG",
-		"longitude": 9.494306874416917,
-		"latitude": 53.66896303514211,
-		"water": {
-			"shortname": "BSE",
-			"longname": "BÜTZFLETHER SÜDERELBE"
-		}
-	},
-	{
 		"uuid": "86c5688f-2fac-4d58-a245-ad8ce14cafbf",
 		"number": "9520020",
 		"shortname": "LEXFÄHRE OBERWASSER",
@@ -224,20 +210,6 @@
 		}
 	},
 	{
-		"uuid": "81c95d3a-3193-4e9c-a411-adf97c751a43",
-		"number": "126017",
-		"shortname": "HAHNÖFER SAND WEST SIEL",
-		"longname": "HAHNÖFER SAND WEST SIEL",
-		"km": 641.5,
-		"agency": "STANDORT HAMBURG",
-		"longitude": 9.690490444910012,
-		"latitude": 53.54823797295135,
-		"water": {
-			"shortname": "ELBE",
-			"longname": "ELBE"
-		}
-	},
-	{
 		"uuid": "8d18d129-07f1-4c4d-adba-a985016be0b0",
 		"number": "5960010",
 		"shortname": "LÜHORT",
@@ -260,20 +232,6 @@
 		"agency": "STANDORT HAMBURG",
 		"longitude": 9.584318424577651,
 		"latitude": 53.609411339997216,
-		"water": {
-			"shortname": "ELBE",
-			"longname": "ELBE"
-		}
-	},
-	{
-		"uuid": "6d43098c-632d-4e89-996f-98b1c99e5630",
-		"number": "126015",
-		"shortname": "TWIELENFLETH SIEL",
-		"longname": "TWIELENFLETH SIEL",
-		"km": 650.7,
-		"agency": "STANDORT HAMBURG",
-		"longitude": 9.56713709100286,
-		"latitude": 53.5987544867678,
 		"water": {
 			"shortname": "ELBE",
 			"longname": "ELBE"
@@ -406,20 +364,6 @@
 		}
 	},
 	{
-		"uuid": "f973fb71-4a44-4603-8b13-25002dd6dbd8",
-		"number": "126005",
-		"shortname": "SCHÖNEWORTH SIEL",
-		"longname": "SCHÖNEWORTH SIEL",
-		"km": 685.1,
-		"agency": "STANDORT HAMBURG",
-		"longitude": 9.288200593012338,
-		"latitude": 53.846897132615574,
-		"water": {
-			"shortname": "ELBE",
-			"longname": "ELBE"
-		}
-	},
-	{
 		"uuid": "d4f5f719-8c52-4f8d-945d-1c31404cc628",
 		"number": "5970094",
 		"shortname": "BRUNSBÜTTEL MPM",
@@ -473,20 +417,6 @@
 		"water": {
 			"shortname": "ELBE",
 			"longname": "ELBE"
-		}
-	},
-	{
-		"uuid": "d3e21e8a-99ce-4033-8db6-9d0f0648beb3",
-		"number": "126006",
-		"shortname": "FREIBURG SPERRWERK",
-		"longname": "FREIBURG SPERRWERK",
-		"km": 0.45,
-		"agency": "STANDORT HAMBURG",
-		"longitude": 9.295079440408713,
-		"latitude": 53.82692556106338,
-		"water": {
-			"shortname": "Freiburger Hafenpriel",
-			"longname": "FREIBURGER HAFENPRIEL"
 		}
 	},
 	{
@@ -554,20 +484,6 @@
 		"agency": "STANDORT HAMBURG",
 		"longitude": 9.591134701843528,
 		"latitude": 53.51227379204826,
-		"water": {
-			"shortname": "LÜHE",
-			"longname": "LÜHE"
-		}
-	},
-	{
-		"uuid": "259dcb4a-2366-45a6-a448-b06a8941ae16",
-		"number": "126016",
-		"shortname": "LÜHORT LFK",
-		"longname": "LÜHORT LFK",
-		"km": 12.6,
-		"agency": "STANDORT HAMBURG",
-		"longitude": 9.633671953854105,
-		"latitude": 53.57137510339342,
 		"water": {
 			"shortname": "LÜHE",
 			"longname": "LÜHE"
@@ -1440,34 +1356,6 @@
 		}
 	},
 	{
-		"uuid": "752a8c5a-5f2a-4575-af2f-d825cffc6eb3",
-		"number": "126010",
-		"shortname": "RUTHENSTROM-SPERRWERK",
-		"longname": "RUTHENSTROM-SPERRWERK",
-		"km": 3.64,
-		"agency": "STANDORT HAMBURG",
-		"longitude": 9.419406799690009,
-		"latitude": 53.71995970904395,
-		"water": {
-			"shortname": "RuS",
-			"longname": "RUTHENSTROM"
-		}
-	},
-	{
-		"uuid": "cc57198c-b40f-4c11-ad50-fceae4669a3e",
-		"number": "126014",
-		"shortname": "SCHWINGE-SPERRWERK",
-		"longname": "SCHWINGE-SPERRWERK",
-		"km": 3.6,
-		"agency": "STANDORT HAMBURG",
-		"longitude": 9.514315636026316,
-		"latitude": 53.62485233499486,
-		"water": {
-			"shortname": "Schwinge",
-			"longname": "SCHWINGE"
-		}
-	},
-	{
 		"uuid": "15859426-834c-429e-9c41-2e097b717b1d",
 		"number": "5970037",
 		"shortname": "GRÖNHUDE",
@@ -1563,34 +1451,6 @@
 		"water": {
 			"shortname": "TREENE",
 			"longname": "TREENE"
-		}
-	},
-	{
-		"uuid": "5b94e4b9-cc96-433f-abf7-08287137ec54",
-		"number": "126009",
-		"shortname": "DORNBUSCH BRÜCKE",
-		"longname": "DORNBUSCH BRÜCKE",
-		"km": 3.7,
-		"agency": "STANDORT HAMBURG",
-		"longitude": 9.348016526795693,
-		"latitude": 53.73777577422477,
-		"water": {
-			"shortname": "WSE",
-			"longname": "WISCHHAFENER SÜDERELBE"
-		}
-	},
-	{
-		"uuid": "e0747660-6d75-476a-be0f-73865bf47363",
-		"number": "126008",
-		"shortname": "WISCHHAFEN SPERRWERK",
-		"longname": "WISCHHAFEN SPERRWERK",
-		"km": 10.0,
-		"agency": "STANDORT HAMBURG",
-		"longitude": 9.340786122111076,
-		"latitude": 53.785178225601356,
-		"water": {
-			"shortname": "WSE",
-			"longname": "WISCHHAFENER SÜDERELBE"
 		}
 	}
 ]
