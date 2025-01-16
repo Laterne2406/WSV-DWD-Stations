@@ -138,8 +138,9 @@ fetch(station_url)
 		/*console.log(`f-station  `, data)*/
 	    for(let i=0;i<data.length;i++) {
 			
-			if (regional.includes(data[i].regio))
+			if (regional.includes(data[i].regio) && (data[i].latitude) > 53.3700)
 			{
+				/*console.log(`f-station  `, data[i].name)*/
 				let option = document.createElement("option");
 	        	option.value = i+1;
 	        	option.text = data[i].name;
