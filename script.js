@@ -116,8 +116,10 @@ function messwert(obj)
 			<br/> Taupunkt: &ensp; ${dewpoint} Grad<br/> Niederschlag: &ensp; ${precip} mm/h
 			<br/> Schneehöhe: &ensp; ${snow} mm<br/> Luftdruck: &ensp; ${pressure} hPa
 			<br/> Sonne: &ensp; ${sunshine} min<br/> Wolken: &ensp; ${cloud} %
-			<br/> Wind aus: &ensp; ${winddir} Grad<br/> Windzugrichtung: &ensp; ${windzug} Grad
+			<br/> Wind aus: &ensp; ${winddir} Grad
 			<br/><br/> <img src="./assets/wind80.png" style="transform:rotate(${winddir}deg);">
+			<br/><br/> Windzugrichtung: &ensp; ${windzug} Grad
+			<br/> <img src="./assets/windzug.png" style="transform:rotate(${windzug}deg);">
 			</p>`;
 			document.getElementById("infobox").innerHTML = result;
 			
