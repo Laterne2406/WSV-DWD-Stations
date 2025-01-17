@@ -39,7 +39,6 @@ let ourCustomIcon2 = L.icon(iconOption2);
 // Lokale gefilterte Stationen aus der WSV-Liste
 let WSV_url = './assets/WSV-Nord-Output.json'
 
-
 // Gefilterte Stationen nach DWD Regionalkennung
 let regional = ["SH", "NI" , "MV" , "HH"]
 
@@ -178,7 +177,11 @@ fetch(WSV_url)
 					'&pegelkennwerte=NW,HW,MNW,MHW,MW&dauer=24;2&imgLinien=2&anordnung=block&imgBreite=500&imgHoehe=200&schriftPegelname=11&schriftAchse=11&anzeigeUeberschrift=false\
 					&anzeigeDatenquelle=true&schriftLetzterWert=15"scrolling="no"marginheight="0"marginwidth="0"frameborder="0"width="540"height="340"'
 				
-				let marker = L.marker([data[i].latitude, data[i].longitude], {icon: ourCustomIcon2}).bindPopup(`${data[i].shortname} 
+				
+				let diagram_link = 'https://www.pegelonline.wsv.de/webservices/zeitreihe/visualisierung?pegeluuid=' + data[i].uuid
+				
+				
+				let marker = L.marker([data[i].latitude, data[i].longitude], {icon: ourCustomIcon2}).bindPopup(`<a href= ${diagram_link} target="_blank"> ${data[i].shortname} </a> 
 				<iframe
 					${diagram_id}
 					>
