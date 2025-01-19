@@ -61,55 +61,55 @@ function messwert(obj)
 			/*console.log(st_id,wetterdata);*/
 			var zeitstempel =new Date(wetterdata.time).toLocaleString("de-DE");
 			var temper = wetterdata.temperature /10;
-            if (temper > 100)                
+            		if (temper > 100)                
 				temper = "--";
 			var feuchte = wetterdata.humidity /10;
-            if (feuchte > 100)                
+            		if (feuchte > 100)                
 				feuchte = "--";
 			var dewpoint = wetterdata.dewpoint /10;
-            if (dewpoint > 100)                
+            		if (dewpoint > 100)                
 				dewpoint = "--";
 			var precip = wetterdata.precipitation /10;
-            if (precip > 300)
+            		if (precip > 300)
 				precip = "--";
 
-            var snow = wetterdata.totalsnow
-            if (snow > 200)                
+            		var snow = wetterdata.totalsnow
+            		if (snow > 200)                
 				snow = "--";
             
 			var pressure = wetterdata.pressure /10;
-            if (pressure > 2000)                
+            		if (pressure > 2000)                
 				pressure = "--";
 			var meanwind = wetterdata.meanwind /10;
-            if (meanwind > 200)                
+            		if (meanwind > 200)                
 				meanwind = "--";
-            var maxwind = wetterdata.maxwind /10;
-            if (maxwind > 300)                
+            		var maxwind = wetterdata.maxwind /10;
+            		if (maxwind > 300)                
 				maxwind = "--";
 			
             
-            var winddir = wetterdata.winddirection /10;
+            		var winddir = wetterdata.winddirection /10;
 			if (winddir >= 0 && winddir <= 180) 
-            	windzug = winddir + 180;
-        	else if (winddir > 180 && winddir <= 360)
-            	windzug = winddir - 180;
+            			windzug = winddir + 180;
+        		else if (winddir > 180 && winddir <= 360)
+            			windzug = winddir - 180;
 			else
 				{
 				winddir = "--";
 				windzug = "--";
 				}
                 
-            var sunshine = wetterdata.sunshine;
-            if (sunshine > 60)
-                sunshine = "--";
+            		var sunshine = wetterdata.sunshine;
+            		if (sunshine > 60)
+               			sunshine = "--";
             
-            var cloud = wetterdata.cloud_cover_total;
-            if (cloud > 100)
-                cloud = "--";
+            		var cloud = wetterdata.cloud_cover_total;
+            		if (cloud > 100)
+               			 cloud = "--";
 			/*console.log(zeitstempel, station, wetterdata.winddirection);*/
 			
 			var result =
-            `<button onclick='closeInfobox()'> clear box</button> <h5>Stündliche Wetterdaten <br/>Aktuell: ${zeitstempel} <br/>Station: ${station} </h5><p style="font-size: 12px; text-align: center"> 
+            		`<button onclick='closeInfobox()'> clear box</button> <h5>Stündliche Wetterdaten <br/>Aktuell: ${zeitstempel} <br/>Station: ${station} </h5><p style="font-size: 12px; text-align: center"> 
 			Temperatur: &ensp; ${temper} Grad<br/> Feuchte: &ensp; ${feuchte} %
 			<br/> Taupunkt: &ensp; ${dewpoint} Grad<br/> Niederschlag: &ensp; ${precip} mm/h
 			<br/> Schneehöhe: &ensp; ${snow} mm<br/> Luftdruck: &ensp; ${pressure} hPa
