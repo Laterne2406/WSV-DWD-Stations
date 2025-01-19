@@ -89,16 +89,15 @@ function messwert(obj)
 			
             
             var winddir = wetterdata.winddirection /10;
-            if (winddir > 361)
-				{
-					winddir = "--";
-					windzug = "--";
-				}
+			if (winddir >= 0 && winddir <= 180) 
+            	windzug = winddir + 180;
+        	else if (winddir > 180 && winddir <= 360)
+            	windzug = winddir - 180;
 			else
-				if (winddir <= 180 && winddir >= 0) 
-                	windzug = winddir + 180;
-            	else (winddir > 180 && winddir <= 360)
-                	windzug = winddir - 180;
+				{
+				winddir = "--";
+				windzug = "--";
+				}
                 
             var sunshine = wetterdata.sunshine;
             if (sunshine > 60)
