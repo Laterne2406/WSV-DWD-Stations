@@ -119,9 +119,9 @@ function messwert(obj)
 			<br/> Wind: &ensp; ${meanwind} km/h
 			<br/> Windböen: &ensp; ${maxwind} km/h
 			<br/> Wind aus: &ensp; ${winddir} Grad
-			<br/> <img src="./assets/wind80.png" style="transform:rotate(${winddir}deg);transform:scale(0.8,0.8)">
+			<br/> <img src="./assets/wind80.png" style="transform:rotate(${winddir}deg)">
 			<br/><br/> Windzugrichtung: &ensp; ${windzug} Grad
-			<br/> <img src="./assets/windzug.png" style="transform:rotate(${windzug}deg);transform:scale(0.8,0.8)">
+			<br/> <img src="./assets/windzug.png" style="transform:rotate(${windzug}deg)">
 			</p>`;
 			document.getElementById("infobox").innerHTML = result;
 			
