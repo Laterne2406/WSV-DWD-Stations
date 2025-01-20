@@ -254,7 +254,7 @@ fetch(test_url)
 				
 			},
 			yaxis3:{
-				title:{text: 'Wind Grad', font:{color:'#8a8a8a'}},
+				title:{text: 'Windrichtung', font:{color:'#8a8a8a'}},
 				tickfont: {color: '#8a8a8a'},
 				dtick: 5,
 				tickmode: 'array',
