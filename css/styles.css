@@ -41,8 +41,9 @@ body {
 	/*width:500px;
 	height:300px;*/
 	margin: 0 25px 0 5px;
-	padding: 10px 5px 5px 10px;
-	float: right;
+	padding: 5px 5px 5px 5px;
+	float: left;
+	display: inline-block;
   	border-width: 3px;
   	border-style: solid;
   	border-color: #888;
