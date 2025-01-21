@@ -225,7 +225,7 @@ fetch(test_url)
 		var layout_p = {
 			width: 350,
 			height: 350,
-			margin:{b: 40, l: 50, r:50, t:30, pad:5},
+			margin:{b: 40, l: 50, r:50, t:70, pad:5},
 			//margin: 'autoexpand',
 			title: {text: id+'  '+ station, font:{size: 12}},
 			showlegend: false,
