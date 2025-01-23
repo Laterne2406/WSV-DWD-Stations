@@ -118,7 +118,7 @@ function messwert(obj)
 			
 			
 			var result =
-            `<button onclick='closeInfobox()'> clear box</button> <h5>Stündliche Wetterdaten <br/>Aktuell: ${zeitstempel} <br/>Station: ${station} </h5><p style="font-size: 12px; text-align: center"> 
+            `<button onclick='closeInfobox()'> clear box</button> <h5 style="font-size: 12px"> Stündliche Wetterdaten <br/>Aktuell: ${zeitstempel} <br/>Station: ${station} </h5><p style="font-size: 11px; text-align: center"> 
 			Temperatur: &ensp; ${temper} Grad<br/> Feuchte: &ensp; ${feuchte} %
 			<br/> Taupunkt: &ensp; ${dewpoint} Grad<br/> Niederschlag: &ensp; ${precip} mm/h
 			<br/> Schneehöhe: &ensp; ${snow} mm<br/> Luftdruck: &ensp; ${pressure} hPa
@@ -231,10 +231,10 @@ fetch(test_url)
 		var range_p = [x_time[0],x_time[time_l]];
 		
 		var layout_p = {
-			width: 280,
-			height: 280,
-			margin:{b: 40, l: 50, r:50, t:70, pad:5},
-			title: {text: id+' '+ station + ' Zeitreihe 96 Stunden', font:{size: 11}},
+			width: 260,
+			height: 255,
+			margin:{b: 30, l: 40, r:40, t:70, pad:3},
+			title: {text: station + ' Zeitreihe 96 Stunden', font:{size: 11}},
 			showlegend: false,
 			//paper_bgcolor: '#ADD8E6',
 			//plot_bgcolor: '#ADD8E6',
@@ -292,10 +292,10 @@ fetch(test_url)
 		}]
 
 		layoutW = {
-			width: 280,
-			height: 280,
-			margin:{b: 40, l: 50, r:50, t:70, pad:5},
-			title: {text: id+' '+ station+' Windrichtung 96 Stunden', font:{size: 11}},
+			width: 260,
+			height: 255,
+			margin:{b: 30, l: 40, r:40, t:70},
+			title: {text: station + ' Wind 96 Stunden', font:{size: 11}},
 		  	polar: {
 		    	radialaxis: {
 		      	visible: true,
@@ -348,7 +348,7 @@ fetch(station_url)
 				
 				let marker = L.marker([data[i].latitude, data[i].longitude], {icon: ourCustomIcon}).bindPopup(`<h3> ${data[i].id} ${data[i].name}</h3> <button onclick='messwert({st_id:${data[i].id}, text:"${station}"})'> Wetterdaten aktuell </button>
 				<br/><br/><button onclick='diagram_plot({st_id:${data[i].id}, text:"${station}"})'> Wetter-Zeitreihe</button>`,
-				{maxWidth: "auto"}).on('click', () => {map.flyTo([data[i].latitude, data[i].longitude], 12, {duration:0.5, easeLinearity:0.8});
+				{maxWidth: "auto"}).on('click', () => {map.flyTo([data[i].latitude+0.015, data[i].longitude], 12, {duration:0.5, easeLinearity:0.8});
 	        	}).addTo(map);
 			}
 		}						
@@ -369,8 +369,8 @@ fetch(WSV_url)
 			if (data[i].longitude)
 	        {
 				let diagram_id = 'src="https://www.pegelonline.wsv.de/charts/OnlineVisualisierungGanglinie?pegeluuid=' + data[i].uuid +
-					'&pegelkennwerte=NW,HW,MNW,MHW,MW&dauer=24;2&imgLinien=2&anordnung=block&imgBreite=500&imgHoehe=200&schriftPegelname=11&schriftAchse=11&anzeigeUeberschrift=false\
-					&anzeigeDatenquelle=true&schriftLetzterWert=15"scrolling="no"marginheight="0"marginwidth="0"frameborder="0"width="540"height="340"'
+					'&pegelkennwerte=NW,HW,MNW,MHW,MW&dauer=24;2&imgLinien=2&anordnung=block&imgBreite=420&imgHoehe=170&schriftPegelname=11&schriftAchse=11&anzeigeUeberschrift=false\
+					&anzeigeDatenquelle=true&schriftLetzterWert=15"scrolling="no"marginheight="0"marginwidth="0"frameborder="0"width="445"height="280"'
 				
 				
 				let diagram_link = 'https://www.pegelonline.wsv.de/webservices/zeitreihe/visualisierung?pegeluuid=' + data[i].uuid
@@ -382,7 +382,7 @@ fetch(WSV_url)
 					>
 				</iframe>
 					`,{maxWidth: "auto"}).on('click', () => {
-	            map.flyTo([data[i].latitude , data[i].longitude], 12, {duration:0.5, easeLinearity:0.8});
+	            map.flyTo([data[i].latitude+0.04 , data[i].longitude], 12, {duration:0.5, easeLinearity:0.8});
 	        	}).addTo(map);
 			}
 			else
