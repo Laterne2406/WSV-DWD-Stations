@@ -231,7 +231,7 @@ fetch(test_url)
 		var range_p = [x_time[0],x_time[time_l]];
 		
 		var layout_p = {
-			width: 260,
+			width: 255,
 			height: 255,
 			margin:{b: 30, l: 40, r:40, t:70, pad:3},
 			title: {text: station + ' , 96 Stunden', font:{size: 11}},
@@ -292,7 +292,7 @@ fetch(test_url)
 		}]
 
 		layoutW = {
-			width: 260,
+			width: 255,
 			height: 255,
 			margin:{b: 30, l: 40, r:40, t:70},
 			title: {text: station + ' , 96 Stunden', font:{size: 11}},
