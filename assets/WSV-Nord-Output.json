@@ -1,0 +1,1456 @@
+[
+	{
+		"uuid": "b8d05bf9-2ef2-416d-ba70-b5dba74fe777",
+		"number": "9650024",
+		"shortname": "ALTHAGEN",
+		"longname": "ALTHAGEN",
+		"agency": "STANDORT STRALSUND",
+		"longitude": 12.418960482975635,
+		"latitude": 54.37175749424967,
+		"water": {
+			"shortname": "OSTSEE",
+			"longname": "OSTSEE"
+		}
+	},
+	{
+		"uuid": "0e192297-1224-4465-b1c7-a476cc17f74d",
+		"number": "5970069",
+		"shortname": "AWK STROHBRÜCK",
+		"longname": "AWK STROHBRÜCK",
+		"km": 0.89,
+		"agency": "STANDORT KIEL",
+		"longitude": 9.967772383695179,
+		"latitude": 54.33483320795625,
+		"water": {
+			"shortname": "NOK",
+			"longname": "NORD-OSTSEE-KANAL"
+		}
+	},
+	{
+		"uuid": "e8daa3e2-77d1-4cfa-9ac9-501e7b2b4b0a",
+		"number": "9510063",
+		"shortname": "BAKE A",
+		"longname": "BAKE A",
+		"km": 755.7,
+		"agency": "STANDORT CUXHAVEN",
+		"longitude": 8.315139865852297,
+		"latitude": 53.9844213349779,
+		"water": {
+			"shortname": "NORDSEE",
+			"longname": "NORDSEE"
+		}
+	},
+	{
+		"uuid": "104fdc24-1dc6-4cb7-b44f-10bd02e13f40",
+		"number": "9510066",
+		"shortname": "BAKE Z",
+		"longname": "BAKE Z",
+		"km": 755.9,
+		"agency": "STANDORT CUXHAVEN",
+		"longitude": 8.314601507551739,
+		"latitude": 54.0135191527026,
+		"water": {
+			"shortname": "NORDSEE",
+			"longname": "NORDSEE"
+		}
+	},
+	{
+		"uuid": "09227288-8c72-4b12-88fe-8765d1b2b400",
+		"number": "9650040",
+		"shortname": "BARHÖFT",
+		"longname": "BARHÖFT",
+		"agency": "STANDORT STRALSUND",
+		"longitude": 13.032221032802543,
+		"latitude": 54.43453931311291,
+		"water": {
+			"shortname": "OSTSEE",
+			"longname": "OSTSEE"
+		}
+	},
+	{
+		"uuid": "00c33ed9-6bea-45b4-8728-7edc7e43e2f3",
+		"number": "9650030",
+		"shortname": "BARTH",
+		"longname": "BARTH",
+		"km": 0.0,
+		"agency": "STANDORT STRALSUND",
+		"longitude": 12.723220564867594,
+		"latitude": 54.37122057673123,
+		"water": {
+			"shortname": "OSTSEE",
+			"longname": "OSTSEE"
+		}
+	},
+	{
+		"uuid": "bacb459b-0f24-4233-bb35-cd224a51678e",
+		"number": "5952065",
+		"shortname": "BLANKENESE UF",
+		"longname": "BLANKENESE UF",
+		"km": 635.0,
+		"agency": "HAMBURG PORT AUTHORITY",
+		"longitude": 9.807108136707472,
+		"latitude": 53.5555769928394,
+		"water": {
+			"shortname": "ELBE",
+			"longname": "ELBE"
+		}
+	},
+	{
+		"uuid": "8727ebfd-e2e1-43da-ab3d-fee48cff9acc",
+		"number": "9340020",
+		"shortname": "BORKUM FISCHERBALJE",
+		"longname": "BORKUM FISCHERBALJE",
+		"km": 83.5,
+		"agency": "STANDORT EMDEN",
+		"longitude": 6.747895484692885,
+		"latitude": 53.557435547240736,
+		"water": {
+			"shortname": "NORDSEE",
+			"longname": "NORDSEE"
+		}
+	},
+	{
+		"uuid": "478f21e9-906b-4c6f-a009-b5eabb052746",
+		"number": "9340030",
+		"shortname": "BORKUM SÜDSTRAND",
+		"longname": "BORKUM SÜDSTRAND",
+		"km": 89.23,
+		"agency": "STANDORT EMDEN",
+		"longitude": 6.661416310788685,
+		"latitude": 53.57685358685305,
+		"water": {
+			"shortname": "NORDSEE",
+			"longname": "NORDSEE"
+		}
+	},
+	{
+		"uuid": "24c6a014-864b-4d53-bd05-0b49106f5412",
+		"number": "5970038",
+		"shortname": "BREITENBERG",
+		"longname": "BREITENBERG",
+		"km": 11.9,
+		"agency": "STANDORT HAMBURG",
+		"longitude": 9.632318956087092,
+		"latitude": 53.92767946732097,
+		"water": {
+			"shortname": "STÖR",
+			"longname": "STÖR"
+		}
+	},
+	{
+		"uuid": "610ab204-d3c4-4a11-a38b-e31461fdcf27",
+		"number": "5970050",
+		"shortname": "BROKDORF",
+		"longname": "BROKDORF",
+		"km": 684.2,
+		"agency": "STANDORT HAMBURG",
+		"longitude": 9.316029583340883,
+		"latitude": 53.86270350726209,
+		"water": {
+			"shortname": "ELBE",
+			"longname": "ELBE"
+		}
+	},
+	{
+		"uuid": "d4f5f719-8c52-4f8d-945d-1c31404cc628",
+		"number": "5970094",
+		"shortname": "BRUNSBÜTTEL MPM",
+		"longname": "BRUNSBÜTTEL MPM",
+		"km": 695.214,
+		"agency": "STANDORT CUXHAVEN",
+		"longitude": 9.148744899065207,
+		"latitude": 53.887806802082785,
+		"water": {
+			"shortname": "ELBE",
+			"longname": "ELBE"
+		}
+	},
+	{
+		"uuid": "ae1b91d0-e746-4f65-9f64-2d2e23603a82",
+		"number": "5952020",
+		"shortname": "BUNTHAUS",
+		"longname": "BUNTHAUS",
+		"km": 609.9,
+		"agency": "HAMBURG PORT AUTHORITY",
+		"longitude": 10.064017807378915,
+		"latitude": 53.46141377244459,
+		"water": {
+			"shortname": "ELBE",
+			"longname": "ELBE"
+		}
+	},
+	{
+		"uuid": "5287a3e1-c540-4ab1-b52e-880d124cbc43",
+		"number": "9510095",
+		"shortname": "BÜSUM",
+		"longname": "BÜSUM",
+		"km": 100.0,
+		"agency": "STANDORT TÖNNING",
+		"longitude": 8.859101981833861,
+		"latitude": 54.12176075767589,
+		"water": {
+			"shortname": "NORDSEE",
+			"longname": "NORDSEE"
+		}
+	},
+	{
+		"uuid": "e6b42536-6bf8-42e3-8ef5-7d1a283a8608",
+		"number": "5950070",
+		"shortname": "CRANZ",
+		"longname": "CRANZ",
+		"km": 634.42,
+		"agency": "STANDORT HAMBURG",
+		"longitude": 9.79153701891187,
+		"latitude": 53.53594375971424,
+		"water": {
+			"shortname": "ELBE",
+			"longname": "ELBE"
+		}
+	},
+	{
+		"uuid": "aad49293-242a-43ad-a8b1-e91d7792c4b2",
+		"number": "5990020",
+		"shortname": "CUXHAVEN STEUBENHÖFT",
+		"longname": "CUXHAVEN STEUBENHÖFT",
+		"km": 724.0,
+		"agency": "STANDORT CUXHAVEN",
+		"longitude": 8.717424884873578,
+		"latitude": 53.86768589381784,
+		"water": {
+			"shortname": "ELBE",
+			"longname": "ELBE"
+		}
+	},
+	{
+		"uuid": "6233e901-2600-4b54-ae06-7b987934e99e",
+		"number": "9570040",
+		"shortname": "DAGEBÜLL",
+		"longname": "DAGEBÜLL",
+		"km": 100.0,
+		"agency": "STANDORT TÖNNING",
+		"longitude": 8.686972819574338,
+		"latitude": 54.73050734605736,
+		"water": {
+			"shortname": "NORDSEE",
+			"longname": "NORDSEE"
+		}
+	},
+	{
+		"uuid": "1faa9b2c-c269-4662-af70-ef11da27cc1c",
+		"number": "9610045",
+		"shortname": "ECKERNFÖRDE",
+		"longname": "ECKERNFÖRDE",
+		"km": 612.0,
+		"agency": "STANDORT LÜBECK",
+		"longitude": 9.836007267744343,
+		"latitude": 54.474702770338084,
+		"water": {
+			"shortname": "OSTSEE",
+			"longname": "OSTSEE"
+		}
+	},
+	{
+		"uuid": "04acd7e5-3cbc-4cdd-b4a9-f452e868f4d6",
+		"number": "9530010",
+		"shortname": "EIDER-SPERRWERK AP",
+		"longname": "EIDER-SPERRWERK AP",
+		"km": 109.617,
+		"agency": "STANDORT TÖNNING",
+		"longitude": 8.842130064364492,
+		"latitude": 54.26592362421687,
+		"water": {
+			"shortname": "NORDSEE",
+			"longname": "NORDSEE"
+		}
+	},
+	{
+		"uuid": "8ac85e6c-6167-496c-b16f-fa94f81cd94a",
+		"number": "9520081",
+		"shortname": "EIDER-SPERRWERK BP",
+		"longname": "EIDER-SPERRWERK BP",
+		"km": 110.1,
+		"agency": "STANDORT TÖNNING",
+		"longitude": 8.849593787440885,
+		"latitude": 54.265865929366214,
+		"water": {
+			"shortname": "EIDER",
+			"longname": "EIDER"
+		}
+	},
+	{
+		"uuid": "136febf6-1371-4118-a9b8-4275444bda5d",
+		"number": "5970022",
+		"shortname": "ELMSHORN HAFEN",
+		"longname": "ELMSHORN HAFEN",
+		"km": 0.028,
+		"agency": "STANDORT HAMBURG",
+		"longitude": 9.653894435890026,
+		"latitude": 53.752182328291525,
+		"water": {
+			"shortname": "KRÜCKAU",
+			"longname": "KRÜCKAU"
+		}
+	},
+	{
+		"uuid": "9e19c411-f728-4a43-a057-39d4155c71cc",
+		"number": "9610010",
+		"shortname": "FLENSBURG",
+		"longname": "FLENSBURG",
+		"km": 4.0,
+		"agency": "STANDORT LÜBECK",
+		"longitude": 9.43301766621292,
+		"latitude": 54.795056780405034,
+		"water": {
+			"shortname": "OSTSEE",
+			"longname": "OSTSEE"
+		}
+	},
+	{
+		"uuid": "721313e7-935a-4bb8-8c6d-0e014211b2ec",
+		"number": "9520060",
+		"shortname": "FRIEDRICHSTADT STRASSENBRÜCKE",
+		"longname": "FRIEDRICHSTADT STRASSENBRÜCKE",
+		"km": 83.14,
+		"agency": "STANDORT TÖNNING",
+		"longitude": 9.094603006864789,
+		"latitude": 54.36846852735891,
+		"water": {
+			"shortname": "EIDER",
+			"longname": "EIDER"
+		}
+	},
+	{
+		"uuid": "795ce865-3ac4-43b8-88d5-049a34e4359e",
+		"number": "9520061",
+		"shortname": "FRIEDRICHSTADT TREENE",
+		"longname": "FRIEDRICHSTADT TREENE",
+		"km": 0.0,
+		"agency": "STANDORT TÖNNING",
+		"longitude": 9.083812848701694,
+		"latitude": 54.373651212662296,
+		"water": {
+			"shortname": "TREENE",
+			"longname": "TREENE"
+		}
+	},
+	{
+		"uuid": "1f1bbed7-c1fa-45b4-90d3-df94b50ad631",
+		"number": "5970035",
+		"shortname": "GLÜCKSTADT",
+		"longname": "GLÜCKSTADT",
+		"km": 674.0,
+		"agency": "STANDORT HAMBURG",
+		"longitude": 9.409429815364883,
+		"latitude": 53.78436115368087,
+		"water": {
+			"shortname": "ELBE",
+			"longname": "ELBE"
+		}
+	},
+	{
+		"uuid": "7398029b-c6a1-484f-b1f6-1afe568ee1e2",
+		"number": "5970026",
+		"shortname": "GRAUERORT REEDE",
+		"longname": "GRAUERORT REEDE",
+		"km": 660.738,
+		"agency": "STANDORT HAMBURG",
+		"longitude": 9.494796126117519,
+		"latitude": 53.679149710879955,
+		"water": {
+			"shortname": "ELBE",
+			"longname": "ELBE"
+		}
+	},
+	{
+		"uuid": "087b6386-0957-4b47-af7d-ecd62f6d63ce",
+		"number": "9690078",
+		"shortname": "GREIFSWALD OIE",
+		"longname": "GREIFSWALD OIE",
+		"km": 0.0,
+		"agency": "STANDORT STRALSUND",
+		"longitude": 13.907208142774298,
+		"latitude": 54.241313337573885,
+		"water": {
+			"shortname": "OSTSEE",
+			"longname": "OSTSEE"
+		}
+	},
+	{
+		"uuid": "6b53ef42-5bd9-4366-ace3-442e307bec60",
+		"number": "9650073",
+		"shortname": "GREIFSWALD-WIECK",
+		"longname": "GREIFSWALD-WIECK",
+		"km": 1.0,
+		"agency": "STANDORT STRALSUND",
+		"longitude": 13.457152923470648,
+		"latitude": 54.09771135196671,
+		"water": {
+			"shortname": "OSTSEE",
+			"longname": "OSTSEE"
+		}
+	},
+	{
+		"uuid": "15859426-834c-429e-9c41-2e097b717b1d",
+		"number": "5970037",
+		"shortname": "GRÖNHUDE",
+		"longname": "GRÖNHUDE",
+		"km": 5.1,
+		"agency": "STANDORT HAMBURG",
+		"longitude": 9.690579345819975,
+		"latitude": 53.93569823113177,
+		"water": {
+			"shortname": "STÖR",
+			"longname": "STÖR"
+		}
+	},
+	{
+		"uuid": "d488c5cc-4de9-4631-8ce1-0db0e700b546",
+		"number": "5952050",
+		"shortname": "HAMBURG ST. PAULI",
+		"longname": "HAMBURG ST. PAULI",
+		"km": 623.1,
+		"agency": "HAMBURG PORT AUTHORITY",
+		"longitude": 9.969965378663103,
+		"latitude": 53.545442243928555,
+		"water": {
+			"shortname": "ELBE",
+			"longname": "ELBE"
+		}
+	},
+	{
+		"uuid": "706e5110-c5e2-4915-9989-c071fcb492ec",
+		"number": "5952025",
+		"shortname": "HAMBURG-HARBURG",
+		"longname": "HAMBURG-HARBURG",
+		"km": 615.0,
+		"agency": "HAMBURG PORT AUTHORITY",
+		"longitude": 9.991825587189057,
+		"latitude": 53.47272615248872,
+		"water": {
+			"shortname": "ELBE",
+			"longname": "ELBE"
+		}
+	},
+	{
+		"uuid": "06219dd9-a2c4-463c-9619-623b3c026cbc",
+		"number": "9610070",
+		"shortname": "HEILIGENHAFEN",
+		"longname": "HEILIGENHAFEN",
+		"km": 123.0,
+		"agency": "STANDORT LÜBECK",
+		"longitude": 11.005664168144426,
+		"latitude": 54.372959365395786,
+		"water": {
+			"shortname": "OSTSEE",
+			"longname": "OSTSEE"
+		}
+	},
+	{
+		"uuid": "c0ec139b-13b4-4f86-bee3-06665ad81a40",
+		"number": "9510070",
+		"shortname": "HELGOLAND BINNENHAFEN",
+		"longname": "HELGOLAND BINNENHAFEN",
+		"km": 0.0,
+		"agency": "STANDORT TÖNNING",
+		"longitude": 7.889904217347014,
+		"latitude": 54.17889396322482,
+		"water": {
+			"shortname": "NORDSEE",
+			"longname": "NORDSEE"
+		}
+	},
+	{
+		"uuid": "0d8233b8-36c9-4a24-ad77-a4e7c617932f",
+		"number": "9510075",
+		"shortname": "HELGOLAND SÜDHAFEN",
+		"longname": "HELGOLAND SÜDHAFEN",
+		"km": 100.0,
+		"agency": "STANDORT TÖNNING",
+		"longitude": 7.894312626997271,
+		"latitude": 54.17497228796411,
+		"water": {
+			"shortname": "NORDSEE",
+			"longname": "NORDSEE"
+		}
+	},
+	{
+		"uuid": "599c23b1-4550-41e3-a7e7-3056989927f1",
+		"number": "5970010",
+		"shortname": "HETLINGEN",
+		"longname": "HETLINGEN",
+		"km": 650.5,
+		"agency": "STANDORT HAMBURG",
+		"longitude": 9.584318424577651,
+		"latitude": 53.609411339997216,
+		"water": {
+			"shortname": "ELBE",
+			"longname": "ELBE"
+		}
+	},
+	{
+		"uuid": "3244d787-f884-40ae-9752-ad3507309edc",
+		"number": "5960020",
+		"shortname": "HORNEBURG",
+		"longname": "HORNEBURG",
+		"km": 0.25,
+		"agency": "STANDORT HAMBURG",
+		"longitude": 9.591134701843528,
+		"latitude": 53.51227379204826,
+		"water": {
+			"shortname": "LÜHE",
+			"longname": "LÜHE"
+		}
+	},
+	{
+		"uuid": "e114aeec-c8d9-4d20-8fe1-8822058cb38b",
+		"number": "9530020",
+		"shortname": "HUSUM",
+		"longname": "HUSUM",
+		"km": 100.0,
+		"agency": "STANDORT TÖNNING",
+		"longitude": 9.024769717289859,
+		"latitude": 54.47228311783692,
+		"water": {
+			"shortname": "NORDSEE",
+			"longname": "NORDSEE"
+		}
+	},
+	{
+		"uuid": "733755fd-628f-4130-a694-aaba340531ba",
+		"number": "9570050",
+		"shortname": "HÖRNUM",
+		"longname": "HÖRNUM",
+		"km": 100.0,
+		"agency": "STANDORT TÖNNING",
+		"longitude": 8.29603456323715,
+		"latitude": 54.75809311391088,
+		"water": {
+			"shortname": "NORDSEE",
+			"longname": "NORDSEE"
+		}
+	},
+	{
+		"uuid": "d863cbc3-5e5e-4095-855c-026f0850dd58",
+		"number": "5970042",
+		"shortname": "ITZEHOE HAFEN",
+		"longname": "ITZEHOE HAFEN",
+		"km": 24.88,
+		"agency": "STANDORT HAMBURG",
+		"longitude": 9.500604517047933,
+		"latitude": 53.92445902391436,
+		"water": {
+			"shortname": "STÖR",
+			"longname": "STÖR"
+		}
+	},
+	{
+		"uuid": "b09f2243-60f0-469a-8f3b-0ea6abc83267",
+		"number": "9610035",
+		"shortname": "KAPPELN",
+		"longname": "KAPPELN",
+		"km": 507.3,
+		"agency": "STANDORT LÜBECK",
+		"longitude": 9.937938134263065,
+		"latitude": 54.66438391176661,
+		"water": {
+			"shortname": "OSTSEE",
+			"longname": "OSTSEE"
+		}
+	},
+	{
+		"uuid": "f53bb77f-e55a-468f-b7be-b66baf7e3e5b",
+		"number": "9690085",
+		"shortname": "KARLSHAGEN",
+		"longname": "KARLSHAGEN",
+		"km": 0.0,
+		"agency": "STANDORT STRALSUND",
+		"longitude": 13.807622038541595,
+		"latitude": 54.10786012437913,
+		"water": {
+			"shortname": "OSTSEE",
+			"longname": "OSTSEE"
+		}
+	},
+	{
+		"uuid": "da893bbd-965a-49b7-a661-707a1ba899d1",
+		"number": "9690084",
+		"shortname": "KARNIN",
+		"longname": "KARNIN",
+		"km": 0.0,
+		"agency": "STANDORT STRALSUND",
+		"longitude": 13.858494243912038,
+		"latitude": 53.84366487308738,
+		"water": {
+			"shortname": "OSPH",
+			"longname": "KLEINES HAFF"
+		}
+	},
+	{
+		"uuid": "3ad4013f-644b-47f5-a641-44b332bfecb2",
+		"number": "9610066",
+		"shortname": "KIEL-HOLTENAU",
+		"longname": "KIEL-HOLTENAU",
+		"km": 150.0,
+		"agency": "STANDORT LÜBECK",
+		"longitude": 10.157049612180776,
+		"latitude": 54.37208668229111,
+		"water": {
+			"shortname": "OSTSEE",
+			"longname": "OSTSEE"
+		}
+	},
+	{
+		"uuid": "905e7328-b8aa-4b08-9c22-c864101e462b",
+		"number": "9670050",
+		"shortname": "KLOSTER",
+		"longname": "KLOSTER",
+		"km": 0.0,
+		"agency": "STANDORT STRALSUND",
+		"longitude": 13.111362240678364,
+		"latitude": 54.584766443253756,
+		"water": {
+			"shortname": "OSTSEE",
+			"longname": "OSTSEE"
+		}
+	},
+	{
+		"uuid": "3ed90357-4b01-4119-b1c5-bd2c62871e7b",
+		"number": "5970025",
+		"shortname": "KOLLMAR",
+		"longname": "KOLLMAR",
+		"km": 666.9,
+		"agency": "STANDORT HAMBURG",
+		"longitude": 9.459761691832878,
+		"latitude": 53.73112347206413,
+		"water": {
+			"shortname": "ELBE",
+			"longname": "ELBE"
+		}
+	},
+	{
+		"uuid": "c0f33a36-cac4-4e47-a3f5-d1863c2f0f99",
+		"number": "9690093",
+		"shortname": "KOSEROW",
+		"longname": "KOSEROW",
+		"km": 0.0,
+		"agency": "STANDORT STRALSUND",
+		"longitude": 14.000822919442996,
+		"latitude": 54.06037833524713,
+		"water": {
+			"shortname": "OSTSEE",
+			"longname": "OSTSEE"
+		}
+	},
+	{
+		"uuid": "8c20b4dc-1540-4b14-8c88-0e1d87de22c4",
+		"number": "5970031",
+		"shortname": "KRAUTSAND REEDE",
+		"longname": "KRAUTSAND REEDE",
+		"km": 671.787,
+		"agency": "STANDORT HAMBURG",
+		"longitude": 9.39118697619361,
+		"latitude": 53.7547049546393,
+		"water": {
+			"shortname": "ELBE",
+			"longname": "ELBE"
+		}
+	},
+	{
+		"uuid": "a653eb04-de2e-47f7-8e2c-09277cfe95ae",
+		"number": "5970024",
+		"shortname": "KRÜCKAU-SPERRWERK AP",
+		"longname": "KRÜCKAU-SPERRWERK AP",
+		"km": 663.3,
+		"agency": "STANDORT HAMBURG",
+		"longitude": 9.526336706347767,
+		"latitude": 53.71614061543577,
+		"water": {
+			"shortname": "ELBE",
+			"longname": "ELBE"
+		}
+	},
+	{
+		"uuid": "53c277c3-7ddb-4281-9937-97dcfe3753fa",
+		"number": "5970023",
+		"shortname": "KRÜCKAU-SPERRWERK BP",
+		"longname": "KRÜCKAU-SPERRWERK BP",
+		"km": 10.5,
+		"agency": "STANDORT HAMBURG",
+		"longitude": 9.526956004763068,
+		"latitude": 53.71625806915563,
+		"water": {
+			"shortname": "KRÜCKAU",
+			"longname": "KRÜCKAU"
+		}
+	},
+	{
+		"uuid": "5a33bf14-6bdc-4666-b2e3-ac78e3083e2a",
+		"number": "9610015",
+		"shortname": "LANGBALLIGAU",
+		"longname": "LANGBALLIGAU",
+		"km": 35.0,
+		"agency": "STANDORT LÜBECK",
+		"longitude": 9.654140992315282,
+		"latitude": 54.823267291869904,
+		"water": {
+			"shortname": "OSTSEE",
+			"longname": "OSTSEE"
+		}
+	},
+	{
+		"uuid": "a0c1dcb6-7812-48e6-8c01-f7edad7a2caf",
+		"number": "9390010",
+		"shortname": "LANGEOOG",
+		"longname": "LANGEOOG",
+		"km": 182.129,
+		"agency": "STANDORT EMDEN",
+		"longitude": 7.501653628801436,
+		"latitude": 53.72323317438252,
+		"water": {
+			"shortname": "NORDSEE",
+			"longname": "NORDSEE"
+		}
+	},
+	{
+		"uuid": "91922b9b-ef7b-4aae-95a1-9d6a9e61969a",
+		"number": "9670063",
+		"shortname": "LAUTERBACH",
+		"longname": "LAUTERBACH",
+		"km": 0.0,
+		"agency": "STANDORT STRALSUND",
+		"longitude": 13.499696400314125,
+		"latitude": 54.3416033935843,
+		"water": {
+			"shortname": "OSTSEE",
+			"longname": "OSTSEE"
+		}
+	},
+	{
+		"uuid": "86c5688f-2fac-4d58-a245-ad8ce14cafbf",
+		"number": "9520020",
+		"shortname": "LEXFÄHRE OBERWASSER",
+		"longname": "LEXFÄHRE OBERWASSER",
+		"km": 26.09,
+		"agency": "STANDORT TÖNNING",
+		"longitude": 9.436143069928908,
+		"latitude": 54.222472119008394,
+		"water": {
+			"shortname": "EIDER",
+			"longname": "EIDER"
+		}
+	},
+	{
+		"uuid": "7f01fbd8-653c-40ba-8ed0-57386a9b4557",
+		"number": "9520030",
+		"shortname": "LEXFÄHRE UNTERWASSER",
+		"longname": "LEXFÄHRE UNTERWASSER",
+		"km": 26.09,
+		"agency": "STANDORT TÖNNING",
+		"longitude": 9.435675671907068,
+		"latitude": 54.223219490436755,
+		"water": {
+			"shortname": "EIDER",
+			"longname": "EIDER"
+		}
+	},
+	{
+		"uuid": "5e92d73f-e4ea-42c1-9f98-91536c17cdff",
+		"number": "9570070",
+		"shortname": "LIST AUF SYLT",
+		"longname": "LIST AUF SYLT",
+		"km": 100.0,
+		"agency": "STANDORT TÖNNING",
+		"longitude": 8.440408553744717,
+		"latitude": 55.0165438953849,
+		"water": {
+			"shortname": "NORDSEE",
+			"longname": "NORDSEE"
+		}
+	},
+	{
+		"uuid": "22b7dcb3-8c42-4f71-9191-49143ba3a828",
+		"number": "9610020",
+		"shortname": "LT KALKGRUND",
+		"longname": "LT KALKGRUND",
+		"km": 61.5,
+		"agency": "STANDORT LÜBECK",
+		"longitude": 9.888008024317406,
+		"latitude": 54.82459902141549,
+		"water": {
+			"shortname": "OSTSEE",
+			"longname": "OSTSEE"
+		}
+	},
+	{
+		"uuid": "736437d7-0f6f-41b7-bc69-5ed721da4f85",
+		"number": "9610050",
+		"shortname": "LT KIEL",
+		"longname": "LT KIEL",
+		"km": 177.75,
+		"agency": "STANDORT LÜBECK",
+		"longitude": 10.273267865043424,
+		"latitude": 54.499588791796825,
+		"water": {
+			"shortname": "OSTSEE",
+			"longname": "OSTSEE"
+		}
+	},
+	{
+		"uuid": "f4f9f7fb-eeff-46dc-9727-04d8aa56240a",
+		"number": "9620090",
+		"shortname": "LÜBECK-BAUHOF",
+		"longname": "LÜBECK-BAUHOF",
+		"km": 7.79,
+		"agency": "STANDORT LÜBECK",
+		"longitude": 10.703065068850526,
+		"latitude": 53.89300775573521,
+		"water": {
+			"shortname": "TRAVE",
+			"longname": "TRAVE"
+		}
+	},
+	{
+		"uuid": "8d18d129-07f1-4c4d-adba-a985016be0b0",
+		"number": "5960010",
+		"shortname": "LÜHORT",
+		"longname": "LÜHORT",
+		"km": 645.5,
+		"agency": "STANDORT HAMBURG",
+		"longitude": 9.633361851581585,
+		"latitude": 53.571574547663595,
+		"water": {
+			"shortname": "ELBE",
+			"longname": "ELBE"
+		}
+	},
+	{
+		"uuid": "8effc15d-8583-4ac6-9f42-1b63c47f92b0",
+		"number": "9610075",
+		"shortname": "MARIENLEUCHTE",
+		"longname": "MARIENLEUCHTE",
+		"km": 284.7,
+		"agency": "STANDORT LÜBECK",
+		"longitude": 11.238874338140052,
+		"latitude": 54.49663026314798,
+		"water": {
+			"shortname": "OSTSEE",
+			"longname": "OSTSEE"
+		}
+	},
+	{
+		"uuid": "3ff99b92-4396-4fa7-af73-02b9c015dcad",
+		"number": "9510132",
+		"shortname": "MITTELGRUND",
+		"longname": "MITTELGRUND",
+		"km": 733.7,
+		"agency": "STANDORT CUXHAVEN",
+		"longitude": 8.63619733230772,
+		"latitude": 53.94207510920859,
+		"water": {
+			"shortname": "NORDSEE",
+			"longname": "NORDSEE"
+		}
+	},
+	{
+		"uuid": "492f85b8-e5c6-439e-8e14-08ca78f10dce",
+		"number": "9670046",
+		"shortname": "NEUENDORF HAFEN",
+		"longname": "NEUENDORF HAFEN",
+		"km": 0.0,
+		"agency": "STANDORT STRALSUND",
+		"longitude": 13.093555157353748,
+		"latitude": 54.52449364846292,
+		"water": {
+			"shortname": "OSTSEE",
+			"longname": "OSTSEE"
+		}
+	},
+	{
+		"uuid": "3f0b6b74-80a9-4576-a3cb-ea967dfc349f",
+		"number": "9610080",
+		"shortname": "NEUSTADT",
+		"longname": "NEUSTADT",
+		"km": 263.0,
+		"agency": "STANDORT LÜBECK",
+		"longitude": 10.804987829789335,
+		"latitude": 54.09652309664692,
+		"water": {
+			"shortname": "OSTSEE",
+			"longname": "OSTSEE"
+		}
+	},
+	{
+		"uuid": "4a904d59-d48f-4878-af7b-cbd955f342e0",
+		"number": "5970075",
+		"shortname": "NOK BREIHOLZ",
+		"longname": "NOK BREIHOLZ",
+		"km": 48.5,
+		"agency": "STANDORT BRUNSBÜTTEL",
+		"longitude": 9.552319101807731,
+		"latitude": 54.20016359020314,
+		"water": {
+			"shortname": "NOK",
+			"longname": "NORD-OSTSEE-KANAL"
+		}
+	},
+	{
+		"uuid": "85fc0dac-a53f-4638-880d-40b24bb282f3",
+		"number": "5970091",
+		"shortname": "NOK BRUNSBÜTTEL",
+		"longname": "NOK BRUNSBÜTTEL",
+		"km": 2.116,
+		"agency": "STANDORT BRUNSBÜTTEL",
+		"longitude": 9.149862765792987,
+		"latitude": 53.89839812875583,
+		"water": {
+			"shortname": "NOK",
+			"longname": "NORD-OSTSEE-KANAL"
+		}
+	},
+	{
+		"uuid": "3954300d-f112-4fe6-8d0a-b06496372e36",
+		"number": "5970085",
+		"shortname": "NOK DÜKERSWISCH",
+		"longname": "NOK DÜKERSWISCH",
+		"km": 21.5,
+		"agency": "STANDORT BRUNSBÜTTEL",
+		"longitude": 9.302242787433618,
+		"latitude": 54.04072000317672,
+		"water": {
+			"shortname": "NOK",
+			"longname": "NORD-OSTSEE-KANAL"
+		}
+	},
+	{
+		"uuid": "6dc44585-5b88-45d7-9c64-7c845408b698",
+		"number": "5650068",
+		"shortname": "NOK KIEL AUSSEN",
+		"longname": "NOK KIEL AUSSEN",
+		"km": 98.13,
+		"agency": "STANDORT KIEL",
+		"longitude": 10.14452738404206,
+		"latitude": 54.36485624808746,
+		"water": {
+			"shortname": "NOK",
+			"longname": "NORD-OSTSEE-KANAL"
+		}
+	},
+	{
+		"uuid": "8af24d6a-eecd-434e-9f1a-60ab6bc05490",
+		"number": "5979020",
+		"shortname": "NOK KIEL BINNEN",
+		"longname": "NOK KIEL BINNEN",
+		"km": 97.76,
+		"agency": "STANDORT KIEL",
+		"longitude": 10.13886996753095,
+		"latitude": 54.36569313500661,
+		"water": {
+			"shortname": "NOK",
+			"longname": "NORD-OSTSEE-KANAL"
+		}
+	},
+	{
+		"uuid": "d0ec2790-a870-405e-bb61-2dcc3cf47467",
+		"number": "5970067",
+		"shortname": "NOK KÖNIGSFÖRDE",
+		"longname": "NOK KÖNIGSFÖRDE",
+		"km": 79.63,
+		"agency": "STANDORT KIEL",
+		"longitude": 9.883252534676961,
+		"latitude": 54.35682511407572,
+		"water": {
+			"shortname": "NOK",
+			"longname": "NORD-OSTSEE-KANAL"
+		}
+	},
+	{
+		"uuid": "8c8afb56-88ea-483a-a7d4-033c22f53497",
+		"number": "5970074",
+		"shortname": "NOK RENDSBURG",
+		"longname": "NOK RENDSBURG",
+		"km": 63.5,
+		"agency": "STANDORT KIEL",
+		"longitude": 9.693628157618347,
+		"latitude": 54.29769196989435,
+		"water": {
+			"shortname": "NOK",
+			"longname": "NORD-OSTSEE-KANAL"
+		}
+	},
+	{
+		"uuid": "c0244c0e-6ae6-40cb-a967-4039b2a0ce7c",
+		"number": "9360010",
+		"shortname": "NORDERNEY RIFFGAT",
+		"longname": "NORDERNEY RIFFGAT",
+		"km": 159.333,
+		"agency": "STANDORT EMDEN",
+		"longitude": 7.157758676264963,
+		"latitude": 53.69649852343097,
+		"water": {
+			"shortname": "NORDSEE",
+			"longname": "NORDSEE"
+		}
+	},
+	{
+		"uuid": "61394669-3f1b-44e5-ae37-50fd2512f4fa",
+		"number": "9520040",
+		"shortname": "NORDFELD OBERWASSER",
+		"longname": "NORDFELD OBERWASSER",
+		"km": 78.19,
+		"agency": "STANDORT TÖNNING",
+		"longitude": 9.13964346741978,
+		"latitude": 54.33873310842768,
+		"water": {
+			"shortname": "EIDER",
+			"longname": "EIDER"
+		}
+	},
+	{
+		"uuid": "cb93548e-c1ce-43f6-b3a1-6903f8835b33",
+		"number": "9520050",
+		"shortname": "NORDFELD UNTERWASSER",
+		"longname": "NORDFELD UNTERWASSER",
+		"km": 78.312,
+		"agency": "STANDORT TÖNNING",
+		"longitude": 9.138246832675822,
+		"latitude": 54.339462413959055,
+		"water": {
+			"shortname": "EIDER",
+			"longname": "EIDER"
+		}
+	},
+	{
+		"uuid": "eb90bd3f-5405-412d-81e0-7a58be52dcef",
+		"number": "5970096",
+		"shortname": "OSTERIFF MPM",
+		"longname": "OSTERIFF MPM",
+		"km": 703.44,
+		"agency": "STANDORT CUXHAVEN",
+		"longitude": 9.031629023778263,
+		"latitude": 53.85636872547316,
+		"water": {
+			"shortname": "ELBE",
+			"longname": "ELBE"
+		}
+	},
+	{
+		"uuid": "5140295e-b93e-4081-a920-642d89c7ca8b",
+		"number": "5990011",
+		"shortname": "OTTERNDORF MPM",
+		"longname": "OTTERNDORF MPM",
+		"km": 714.02,
+		"agency": "STANDORT CUXHAVEN",
+		"longitude": 8.870723820918471,
+		"latitude": 53.835370083569295,
+		"water": {
+			"shortname": "ELBE",
+			"longname": "ELBE"
+		}
+	},
+	{
+		"uuid": "2852b9ab-d30e-4d04-ae06-3e946f48a0b1",
+		"number": "9550021",
+		"shortname": "PELLWORM ANLEGER",
+		"longname": "PELLWORM ANLEGER",
+		"km": 0.0,
+		"agency": "STANDORT TÖNNING",
+		"longitude": 8.702016358858554,
+		"latitude": 54.50091926085553,
+		"water": {
+			"shortname": "NORDSEE",
+			"longname": "NORDSEE"
+		}
+	},
+	{
+		"uuid": "391bbba5-83d4-4791-b07e-65ab29b423f6",
+		"number": "5970019",
+		"shortname": "PINNAU-SPERRWERK AP",
+		"longname": "PINNAU-SPERRWERK AP",
+		"km": 658.444,
+		"agency": "STANDORT HAMBURG",
+		"longitude": 9.558227529245832,
+		"latitude": 53.67138896324078,
+		"water": {
+			"shortname": "ELBE",
+			"longname": "ELBE"
+		}
+	},
+	{
+		"uuid": "26259e8f-7d2d-47e0-8851-0257542b63b3",
+		"number": "5970018",
+		"shortname": "PINNAU-SPERRWERK BP",
+		"longname": "PINNAU-SPERRWERK BP",
+		"km": 18.1,
+		"agency": "STANDORT HAMBURG",
+		"longitude": 9.558759079374548,
+		"latitude": 53.671167253945384,
+		"water": {
+			"shortname": "PINNAU",
+			"longname": "PINNAU"
+		}
+	},
+	{
+		"uuid": "1fa822e6-fb0c-4331-83f1-749972046dca",
+		"number": "9690077",
+		"shortname": "RUDEN",
+		"longname": "RUDEN",
+		"km": 0.0,
+		"agency": "STANDORT STRALSUND",
+		"longitude": 13.771905637420616,
+		"latitude": 54.20434785269332,
+		"water": {
+			"shortname": "OSTSEE",
+			"longname": "OSTSEE"
+		}
+	},
+	{
+		"uuid": "9e7b2a4d-cfe8-4524-8a1e-c196ea897e9f",
+		"number": "9670065",
+		"shortname": "SASSNITZ",
+		"longname": "SASSNITZ",
+		"km": 0.0,
+		"agency": "STANDORT STRALSUND",
+		"longitude": 13.636651355609894,
+		"latitude": 54.50829305906584,
+		"water": {
+			"shortname": "OSTSEE",
+			"longname": "OSTSEE"
+		}
+	},
+	{
+		"uuid": "f0197bcf-6846-4c0a-9659-0c2626a9bcf0",
+		"number": "9510060",
+		"shortname": "SCHARHÖRN",
+		"longname": "SCHARHÖRN",
+		"km": 745.0,
+		"agency": "STANDORT CUXHAVEN",
+		"longitude": 8.462560576653868,
+		"latitude": 53.96703953026536,
+		"water": {
+			"shortname": "NORDSEE",
+			"longname": "NORDSEE"
+		}
+	},
+	{
+		"uuid": "70d4f87f-4489-455a-a435-d6df9e09a87e",
+		"number": "9610025",
+		"shortname": "SCHLEIMÜNDE SP",
+		"longname": "SCHLEIMÜNDE SP",
+		"km": 78.0,
+		"agency": "STANDORT LÜBECK",
+		"longitude": 10.036688584395906,
+		"latitude": 54.67273603368201,
+		"water": {
+			"shortname": "OSTSEE",
+			"longname": "OSTSEE"
+		}
+	},
+	{
+		"uuid": "09370c05-1041-4395-a5d4-b8db6e59c4c8",
+		"number": "9610040",
+		"shortname": "SCHLESWIG",
+		"longname": "SCHLESWIG",
+		"km": 540.0,
+		"agency": "STANDORT LÜBECK",
+		"longitude": 9.569058518839194,
+		"latitude": 54.51143169392662,
+		"water": {
+			"shortname": "OSTSEE",
+			"longname": "OSTSEE"
+		}
+	},
+	{
+		"uuid": "f3c6ee73-5561-4068-96ec-364016e7d9ef",
+		"number": "5950090",
+		"shortname": "SCHULAU",
+		"longname": "SCHULAU",
+		"km": 641.0,
+		"agency": "STANDORT HAMBURG",
+		"longitude": 9.702887479041944,
+		"latitude": 53.56791056441814,
+		"water": {
+			"shortname": "ELBE",
+			"longname": "ELBE"
+		}
+	},
+	{
+		"uuid": "fed4c295-7a01-463c-998e-70ebad8cd2cc",
+		"number": "5952030",
+		"shortname": "SCHÖPFSTELLE",
+		"longname": "SCHÖPFSTELLE",
+		"km": 615.3,
+		"agency": "HAMBURG PORT AUTHORITY",
+		"longitude": 10.061595155813295,
+		"latitude": 53.50839173311653,
+		"water": {
+			"shortname": "ELBE",
+			"longname": "ELBE"
+		}
+	},
+	{
+		"uuid": "816affba-0118-4668-887f-fb882ed573b2",
+		"number": "5952060",
+		"shortname": "SEEMANNSHÖFT",
+		"longname": "SEEMANNSHÖFT",
+		"km": 628.9,
+		"agency": "HAMBURG PORT AUTHORITY",
+		"longitude": 9.88085916522793,
+		"latitude": 53.540164376734,
+		"water": {
+			"shortname": "ELBE",
+			"longname": "ELBE"
+		}
+	},
+	{
+		"uuid": "662c4b5e-0241-456d-ac7d-9f62fd95c0d1",
+		"number": "9410010",
+		"shortname": "SPIEKEROOG",
+		"longname": "SPIEKEROOG",
+		"km": 194.374,
+		"agency": "STANDORT EMDEN",
+		"longitude": 7.681934661515976,
+		"latitude": 53.74923748393361,
+		"water": {
+			"shortname": "NORDSEE",
+			"longname": "NORDSEE"
+		}
+	},
+	{
+		"uuid": "80f0fc4d-9fc7-449d-9d68-ee89333f0eff",
+		"number": "5970013",
+		"shortname": "STADERSAND",
+		"longname": "STADERSAND",
+		"km": 654.86,
+		"agency": "STANDORT HAMBURG",
+		"longitude": 9.526602277838382,
+		"latitude": 53.62972930548137,
+		"water": {
+			"shortname": "ELBE",
+			"longname": "ELBE"
+		}
+	},
+	{
+		"uuid": "340707f4-5d35-4898-8b34-95ea3f4206b3",
+		"number": "9650070",
+		"shortname": "STAHLBRODE",
+		"longname": "STAHLBRODE",
+		"km": 0.0,
+		"agency": "STANDORT STRALSUND",
+		"longitude": 13.289714493128574,
+		"latitude": 54.234461099326666,
+		"water": {
+			"shortname": "OSTSEE",
+			"longname": "OSTSEE"
+		}
+	},
+	{
+		"uuid": "b9163121-2747-4d2b-bcf5-ab5ff7396e56",
+		"number": "9650043",
+		"shortname": "STRALSUND",
+		"longname": "STRALSUND",
+		"km": 0.0,
+		"agency": "STANDORT STRALSUND",
+		"longitude": 13.119014797980478,
+		"latitude": 54.30568217868532,
+		"water": {
+			"shortname": "OSTSEE",
+			"longname": "OSTSEE"
+		}
+	},
+	{
+		"uuid": "d9acdbec-61ff-4308-978a-2f4d1c2c4059",
+		"number": "5970041",
+		"shortname": "STÖR-SPERRWERK AP",
+		"longname": "STÖR-SPERRWERK AP",
+		"km": 678.636,
+		"agency": "STANDORT HAMBURG",
+		"longitude": 9.400981175517032,
+		"latitude": 53.82594576507704,
+		"water": {
+			"shortname": "ELBE",
+			"longname": "ELBE"
+		}
+	},
+	{
+		"uuid": "e5b8e9f3-f0cc-4ad7-8707-577ee1b25b3e",
+		"number": "5970040",
+		"shortname": "STÖR-SPERRWERK BP",
+		"longname": "STÖR-SPERRWERK BP",
+		"km": 50.2,
+		"agency": "STANDORT HAMBURG",
+		"longitude": 9.401400447906958,
+		"latitude": 53.8261482883147,
+		"water": {
+			"shortname": "STÖR",
+			"longname": "STÖR"
+		}
+	},
+	{
+		"uuid": "d1c9bb3c-2929-46a8-a338-adfddf0ef524",
+		"number": "9670067",
+		"shortname": "THIESSOW",
+		"longname": "THIESSOW",
+		"km": 0.0,
+		"agency": "STANDORT STRALSUND",
+		"longitude": 13.709756972733516,
+		"latitude": 54.28066658937803,
+		"water": {
+			"shortname": "OSTSEE",
+			"longname": "OSTSEE"
+		}
+	},
+	{
+		"uuid": "d22c341b-80c2-436d-98e1-8a2575bc975a",
+		"number": "9630007",
+		"shortname": "TIMMENDORF POEL",
+		"longname": "TIMMENDORF POEL",
+		"km": 100.0,
+		"agency": "STANDORT LÜBECK",
+		"longitude": 11.375642142698938,
+		"latitude": 53.99199676671613,
+		"water": {
+			"shortname": "OSTSEE",
+			"longname": "OSTSEE"
+		}
+	},
+	{
+		"uuid": "c7383149-1f77-430d-8bef-c5667be3846b",
+		"number": "9620085",
+		"shortname": "TRAVEMÜNDE",
+		"longname": "TRAVEMÜNDE",
+		"km": 26.2,
+		"agency": "STANDORT LÜBECK",
+		"longitude": 10.872181527429804,
+		"latitude": 53.95802371749466,
+		"water": {
+			"shortname": "TRAVE",
+			"longname": "TRAVE"
+		}
+	},
+	{
+		"uuid": "00e386ac-e35c-4a6e-80dd-f8cd8a9e7a62",
+		"number": "9520070",
+		"shortname": "TÖNNING",
+		"longname": "TÖNNING",
+		"km": 99.8,
+		"agency": "STANDORT TÖNNING",
+		"longitude": 8.950149034965452,
+		"latitude": 54.31468299984576,
+		"water": {
+			"shortname": "EIDER",
+			"longname": "EIDER"
+		}
+	},
+	{
+		"uuid": "c1588dcc-e314-4097-a54c-c0ffbe79209f",
+		"number": "9690088",
+		"shortname": "UECKERMÜNDE",
+		"longname": "UECKERMÜNDE",
+		"km": 0.0,
+		"agency": "STANDORT STRALSUND",
+		"longitude": 14.066477558939392,
+		"latitude": 53.750310387515064,
+		"water": {
+			"shortname": "OSPH",
+			"longname": "KLEINES HAFF"
+		}
+	},
+	{
+		"uuid": "575da86f-d975-4837-b6f5-6f19c3a5e4b6",
+		"number": "5970016",
+		"shortname": "UETERSEN",
+		"longname": "UETERSEN",
+		"km": 9.51,
+		"agency": "STANDORT HAMBURG",
+		"longitude": 9.677083802370527,
+		"latitude": 53.67819255188962,
+		"water": {
+			"shortname": "PINNAU",
+			"longname": "PINNAU"
+		}
+	},
+	{
+		"uuid": "220ff4c6-83da-4a1b-9c13-dfee5a2a8798",
+		"number": "9640015",
+		"shortname": "WARNEMÜNDE",
+		"longname": "WARNEMÜNDE",
+		"km": 0.0,
+		"agency": "STANDORT STRALSUND",
+		"longitude": 12.10338825706324,
+		"latitude": 54.16973098816682,
+		"water": {
+			"shortname": "OSTSEE",
+			"longname": "OSTSEE"
+		}
+	},
+	{
+		"uuid": "95a0ab45-a9ac-4f9a-93e9-b0ffa1c57b5f",
+		"number": "9630008",
+		"shortname": "WISMAR-BAUMHAUS",
+		"longname": "WISMAR-BAUMHAUS",
+		"km": 100.0,
+		"agency": "STANDORT LÜBECK",
+		"longitude": 11.457917784463794,
+		"latitude": 53.89876160549276,
+		"water": {
+			"shortname": "OSTSEE",
+			"longname": "OSTSEE"
+		}
+	},
+	{
+		"uuid": "9c4c11f2-0548-4555-beac-ecfd36f9bd74",
+		"number": "9570010",
+		"shortname": "WITTDÜN",
+		"longname": "WITTDÜN",
+		"km": 0.0,
+		"agency": "STANDORT TÖNNING",
+		"longitude": 8.383942818908348,
+		"latitude": 54.631760442015,
+		"water": {
+			"shortname": "NORDSEE",
+			"longname": "NORDSEE"
+		}
+	},
+	{
+		"uuid": "4b348b56-b08c-4522-9042-49c1edb45d0d",
+		"number": "9670055",
+		"shortname": "WITTOWER FÄHRE",
+		"longname": "WITTOWER FÄHRE",
+		"km": 0.0,
+		"agency": "STANDORT STRALSUND",
+		"longitude": 13.245134582969719,
+		"latitude": 54.55759359561219,
+		"water": {
+			"shortname": "OSTSEE",
+			"longname": "OSTSEE"
+		}
+	},
+	{
+		"uuid": "b327e35c-5dad-4b79-9cef-60fbd504eb37",
+		"number": "9650080",
+		"shortname": "WOLGAST",
+		"longname": "WOLGAST",
+		"km": 0.0,
+		"agency": "STANDORT STRALSUND",
+		"longitude": 13.77037952077918,
+		"latitude": 54.04173736440726,
+		"water": {
+			"shortname": "OSTSEE",
+			"longname": "OSTSEE"
+		}
+	},
+	{
+		"uuid": "e574d0af-5c63-4306-b1d3-43b7359de06d",
+		"number": "9510010",
+		"shortname": "ZEHNERLOCH",
+		"longname": "ZEHNERLOCH",
+		"km": 733.0,
+		"agency": "STANDORT CUXHAVEN",
+		"longitude": 8.658229962288054,
+		"latitude": 53.95550856446187,
+		"water": {
+			"shortname": "NORDSEE",
+			"longname": "NORDSEE"
+		}
+	}
+]
