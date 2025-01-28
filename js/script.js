@@ -107,7 +107,7 @@ function messwert(obj)
 			
 				
                 
-            var sunshine = wetterdata.sunshine;
+            var sunshine = wetterdata.sunshine /10;
             if (sunshine > 60)
                 sunshine = "--";
             
@@ -123,7 +123,7 @@ function messwert(obj)
 			Temperatur: &ensp; ${temper} Grad<br/> Feuchte: &ensp; ${feuchte} %
 			<br/> Taupunkt: &ensp; ${dewpoint} Grad<br/> Niederschlag: &ensp; ${precip} mm/h
 			<br/> Schneehöhe: &ensp; ${snow} mm<br/> Luftdruck: &ensp; ${pressure} hPa
-			<br/> Sonne: &ensp; ${sunshine} min<br/> Wolken: &ensp; ${cloud} %
+			<br/> Sonne: &ensp; ${sunshine} min/h<br/> Wolken: &ensp; ${cloud} %
 			<br/> Wind: &ensp; ${meanwind} km/h
 			<br/> Windböen: &ensp; ${maxwind} km/h
 			<br/><br/><br/> Wind aus: &ensp; ${winddir} Grad
